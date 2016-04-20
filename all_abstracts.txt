@@ -1,0 +1,2302 @@
+******************10.1038/nature12344Pervasive genetic hitchhiking and clonal interference in forty evolving yeast populations.
+1. Nature. 2013 Aug 29;500(7464):571-4. doi: 10.1038/nature12344. Epub 2013 Jul 21.
+
+Pervasive genetic hitchhiking and clonal interference in forty evolving yeast
+populations.
+
+Lang GI(1), Rice DP, Hickman MJ, Sodergren E, Weinstock GM, Botstein D, Desai MM.
+
+Author information: 
+(1)Lewis-Sigler Institute for Integrative Genomics and Department of Molecular
+Biology, Princeton University, Princeton, New Jersey 08544, USA. glang@lehigh.edu
+
+The dynamics of adaptation determine which mutations fix in a population, and
+hence how reproducible evolution will be. This is central to understanding the
+spectra of mutations recovered in the evolution of antibiotic resistance, the
+response of pathogens to immune selection, and the dynamics of cancer
+progression. In laboratory evolution experiments, demonstrably beneficial
+mutations are found repeatedly, but are often accompanied by other mutations with
+no obvious benefit. Here we use whole-genome whole-population sequencing to
+examine the dynamics of genome sequence evolution at high temporal resolution in 
+40 replicate Saccharomyces cerevisiae populations growing in rich medium for
+1,000 generations. We find pervasive genetic hitchhiking: multiple mutations
+arise and move synchronously through the population as mutational 'cohorts'.
+Multiple clonal cohorts are often present simultaneously, competing with each
+other in the same population. Our results show that patterns of sequence
+evolution are driven by a balance between these chance effects of hitchhiking and
+interference, which increase stochastic variation in evolutionary outcomes, and
+the deterministic action of selection on individual mutations, which favours
+parallel evolutionary solutions in replicate populations.
+
+PMCID: PMC3758440
+PMID: 23873039  [PubMed - indexed for MEDLINE]
+
+************************************10.1073/pnas.1506184112Crowded growth leads to the spontaneous evolution of semistable coexistence in laboratory yeast populations.
+1. Proc Natl Acad Sci U S A. 2015 Sep 8;112(36):11306-11. doi:
+10.1073/pnas.1506184112. Epub 2015 Aug 3.
+
+Crowded growth leads to the spontaneous evolution of semistable coexistence in
+laboratory yeast populations.
+
+Frenkel EM(1), McDonald MJ(2), Van Dyken JD(3), Kosheleva K(2), Lang GI(4), Desai
+MM(5).
+
+Author information: 
+(1)Department of Organismic and Evolutionary Biology, Department of Physics, and 
+Faculty of Arts and Sciences Center for Systems Biology, Harvard University,
+Cambridge, MA 02138; Program in Biophysics, Harvard University, Boston, MA 02115;
+(2)Department of Organismic and Evolutionary Biology, Department of Physics, and 
+Faculty of Arts and Sciences Center for Systems Biology, Harvard University,
+Cambridge, MA 02138; (3)Department of Biology, University of Miami, Coral Gables,
+FL 33146; (4)Department of Biological Sciences, Lehigh University, Bethlehem, PA 
+18015. (5)Department of Organismic and Evolutionary Biology, Department of
+Physics, and Faculty of Arts and Sciences Center for Systems Biology, Harvard
+University, Cambridge, MA 02138; mdesai@oeb.harvard.edu.
+
+Comment in
+    Proc Natl Acad Sci U S A. 2015 Sep 8;112(36):11148-9.
+
+Identifying the mechanisms that create and maintain biodiversity is a central
+challenge in biology. Stable diversification of microbial populations often
+requires the evolution of differences in resource utilization. Alternatively,
+coexistence can be maintained by specialization to exploit spatial heterogeneity 
+in the environment. Here, we report spontaneous diversification maintained by a
+related but distinct mechanism: crowding avoidance. During experimental evolution
+of laboratory Saccharomyces cerevisiae populations, we observed the repeated
+appearance of "adherent" (A) lineages able to grow as a dispersed film, in
+contrast to their crowded "bottom-dweller" (B) ancestors. These two types stably 
+coexist because dispersal reduces interference competition for nutrients among
+kin, at the cost of a slower maximum growth rate. This tradeoff causes the
+frequencies of the two types to oscillate around equilibrium over the course of
+repeated cycles of growth, crowding, and dispersal. However, further coevolution 
+of the A and B types can perturb and eventually destroy their coexistence over
+longer time scales. We introduce a simple mathematical model of this "semistable"
+coexistence, which explains the interplay between ecological and evolutionary
+dynamics. Because crowded growth generally limits nutrient access in biofilms,
+the mechanism we report here may be broadly important in maintaining diversity in
+these natural environments.
+
+PMCID: PMC4568650
+PMID: 26240355  [PubMed - indexed for MEDLINE]
+
+************************************10.1016/j.ygeno.2014.11.008Experimental evolution: prospects and challenges.
+1. Genomics. 2014 Dec;104(6 Pt A):v-vi. doi: 10.1016/j.ygeno.2014.11.008.
+
+Experimental evolution: prospects and challenges.
+
+Rosenzweig F(1), Sherlock G(2).
+
+Author information: 
+(1)Division of Biological Sciences, University of Montana, Missoula, MT, USA.
+(2)Department of Genetics, Stanford University, Stanford, CA 94305-5120, USA.
+Electronic address: gsherloc@stanford.edu.
+
+PMCID: PMC4428657
+PMID: 25496938  [PubMed - indexed for MEDLINE]
+
+************************************10.1016/j.ygeno.2014.10.011The Valley-of-Death: reciprocal sign epistasis constrains adaptive trajectories in a constant, nutrient limiting environment.
+1. Genomics. 2014 Dec;104(6 Pt A):431-7. doi: 10.1016/j.ygeno.2014.10.011. Epub 2014
+Nov 1.
+
+The Valley-of-Death: reciprocal sign epistasis constrains adaptive trajectories
+in a constant, nutrient limiting environment.
+
+Chiotti KE(1), Kvitek DJ(2), Schmidt KH(1), Koniges G(1), Schwartz K(2), Donckels
+EA(2), Rosenzweig F(3), Sherlock G(4).
+
+Author information: 
+(1)Division of Biological Sciences, University of Montana, Missoula, MT, USA.
+(2)Department of Genetics, Stanford University, Stanford, CA 94305-5120, USA.
+(3)Division of Biological Sciences, University of Montana, Missoula, MT, USA.
+Electronic address: Frank.Rosenzweig@mso.umt.edu. (4)Department of Genetics,
+Stanford University, Stanford, CA 94305-5120, USA. Electronic address:
+gsherloc@stanford.edu.
+
+The fitness landscape is a powerful metaphor for describing the relationship
+between genotype and phenotype for a population under selection. However,
+empirical data as to the topography of fitness landscapes are limited, owing to
+difficulties in measuring fitness for large numbers of genotypes under any
+condition. We previously reported a case of reciprocal sign epistasis (RSE),
+where two mutations individually increased yeast fitness in a glucose-limited
+environment, but reduced fitness when combined, suggesting the existence of two
+peaks on the fitness landscape. We sought to determine whether a ridge connected 
+these peaks so that populations founded by one mutant could reach the peak
+created by the other, avoiding the low-fitness "Valley-of-Death" between them.
+Sequencing clones after 250 generations of further evolution provided no evidence
+for such a ridge, but did reveal many presumptive beneficial mutations, adding to
+a growing body of evidence that clonal interference pervades evolving microbial
+populations.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMCID: PMC4454348
+PMID: 25449178  [PubMed - indexed for MEDLINE]
+
+************************************10.1093/nar/gkv424Accurate identification of centromere locations in yeast genomes using Hi-C.
+1. Nucleic Acids Res. 2015 Jun 23;43(11):5331-9. doi: 10.1093/nar/gkv424. Epub 2015 
+May 4.
+
+Accurate identification of centromere locations in yeast genomes using Hi-C.
+
+Varoquaux N(1), Liachko I(2), Ay F(2), Burton JN(2), Shendure J(2), Dunham MJ(2),
+Vert JP(1), Noble WS(3).
+
+Author information: 
+(1)Mines ParisTech, PSL-Research University, CBIO-Centre for Computational
+Biology, 35 rue St Honoré 77300 Fontainebleau, France Institut Curie, Paris,
+F-75248, France U900, INSERM, Paris, F-75248, France. (2)Department of Genome
+Sciences, University of Washington, 3720 15th Ave NE, Seattle, WA 98195, USA.
+(3)Department of Genome Sciences, University of Washington, 3720 15th Ave NE,
+Seattle, WA 98195, USA Department of Computer Science and Engineering, University
+of Washington, 185 Stevens Way, Seattle, WA 98195, USA william-noble@uw.edu.
+
+Centromeres are essential for proper chromosome segregation. Despite extensive
+research, centromere locations in yeast genomes remain difficult to infer, and in
+most species they are still unknown. Recently, the chromatin conformation capture
+assay, Hi-C, has been re-purposed for diverse applications, including de novo
+genome assembly, deconvolution of metagenomic samples and inference of centromere
+locations. We describe a method, Centurion, that jointly infers the locations of 
+all centromeres in a single genome from Hi-C data by exploiting the centromeres' 
+tendency to cluster in three-dimensional space. We first demonstrate the accuracy
+of Centurion in identifying known centromere locations from high coverage Hi-C
+data of budding yeast and a human malaria parasite. We then use Centurion to
+infer centromere locations in 14 yeast species. Across all microbes that we
+consider, Centurion predicts 89% of centromeres within 5 kb of their known
+locations. We also demonstrate the robustness of the approach in datasets with
+low sequencing depth. Finally, we predict centromere coordinates for six yeast
+species that currently lack centromere annotations. These results show that
+Centurion can be used for centromere identification for diverse species of yeast 
+and possibly other microorganisms.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+PMCID: PMC4477656
+PMID: 25940625  [PubMed - indexed for MEDLINE]
+
+************************************10.1016/j.ygeno.2014.09.011The spectrum of adaptive mutations in experimental evolution.
+1. Genomics. 2014 Dec;104(6 Pt A):412-6. doi: 10.1016/j.ygeno.2014.09.011. Epub 2014
+Sep 28.
+
+The spectrum of adaptive mutations in experimental evolution.
+
+Lang GI(1), Desai MM(2).
+
+Author information: 
+(1)Department of Biological Sciences, Lehigh University, Bethlehem, PA 18015,
+USA. Electronic address: glang@lehigh.edu. (2)Department of Organismic and
+Evolutionary Biology, Department of Physics, FAS Center for Systems Biology,
+Harvard University, Cambridge, MA 02138, USA. Electronic address:
+mmdesai@fas.harvard.edu.
+
+A primary goal of recent work in experimental evolution is to probe the molecular
+basis of adaptation. This requires an understanding of the individual mutations
+in evolving populations: their identity, their physiological and fitness effects,
+and the interactions between them. The combination of high-throughput methods for
+laboratory evolution and next-generation sequencing methods now makes it possible
+to identify and quantify mutations in hundreds of replicate populations over
+thousands of generations, and to directly measure fitness effects and epistatic
+interactions. Many laboratories are now leveraging these tools to study the
+molecular basis of adaptation and the reproducibility of evolutionary outcomes
+across a variety of model systems. Genetic analyses on evolved populations are
+shedding light on the statistics of epistasis between evolved mutations. Here we 
+review the current understanding of the spectrum of mutations observed across
+these systems, with a focus on epistatic interactions between beneficial
+mutations and constraints on evolutionary outcomes. We emphasize evolution in
+asexual microbes, where next generation sequencing methods have been widely
+applied.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMCID: PMC4268012
+PMID: 25269377  [PubMed - indexed for MEDLINE]
+
+************************************10.1038/nature14279Quantitative evolutionary dynamics using high-resolution lineage tracking.
+1. Nature. 2015 Mar 12;519(7542):181-6. doi: 10.1038/nature14279. Epub 2015 Feb 25.
+
+Quantitative evolutionary dynamics using high-resolution lineage tracking.
+
+Levy SF(1), Blundell JR(2), Venkataram S(3), Petrov DA(3), Fisher DS(2), Sherlock
+G(4).
+
+Author information: 
+(1)1] Department of Genetics, Stanford University, Stanford, California
+94305-5120, USA [2] Laufer Center for Physical and Quantitative Biology, Stony
+Brook University, Stony Brook, New York 11794-5252, USA [3] Department of
+Biochemistry and Cellular Biology, Stony Brook University, Stony Brook, New York 
+11794-5215, USA. (2)1] Department of Applied Physics, Stanford University,
+Stanford, California 94305, USA [2] Department of Biology, Stanford University,
+Stanford, California 94305, USA. (3)Department of Biology, Stanford University,
+Stanford, California 94305, USA. (4)Department of Genetics, Stanford University, 
+Stanford, California 94305-5120, USA.
+
+Comment in
+    Nature. 2015 Mar 12;519(7542):164-5.
+
+Evolution of large asexual cell populations underlies ∼30% of deaths worldwide,
+including those caused by bacteria, fungi, parasites, and cancer. However, the
+dynamics underlying these evolutionary processes remain poorly understood because
+they involve many competing beneficial lineages, most of which never rise above
+extremely low frequencies in the population. To observe these normally hidden
+evolutionary dynamics, we constructed a sequencing-based ultra high-resolution
+lineage tracking system in Saccharomyces cerevisiae that allowed us to monitor
+the relative frequencies of ∼500,000 lineages simultaneously. In contrast to some
+expectations, we found that the spectrum of fitness effects of beneficial
+mutations is neither exponential nor monotonic. Early adaptation is a predictable
+consequence of this spectrum and is strikingly reproducible, but the initial
+small-effect mutations are soon outcompeted by rarer large-effect mutations that 
+result in variability between replicates. These results suggest that early
+evolutionary dynamics may be deterministic for a period of time before stochastic
+effects become important.
+
+PMCID: PMC4426284
+PMID: 25731169  [PubMed - indexed for MEDLINE]
+
+************************************10.1534/genetics.115.176834The Rate and Molecular Spectrum of Spontaneous Mutations in the GC-Rich Multichromosome Genome of Burkholderia cenocepacia.
+1. Genetics. 2015 Jul;200(3):935-46. doi: 10.1534/genetics.115.176834. Epub 2015 May
+12.
+
+The Rate and Molecular Spectrum of Spontaneous Mutations in the GC-Rich
+Multichromosome Genome of Burkholderia cenocepacia.
+
+Dillon MM(1), Sung W(2), Lynch M(2), Cooper VS(3).
+
+Author information: 
+(1)Department of Molecular, Cellular, and Biomedical Sciences, University of New 
+Hampshire, Durham, New Hampshire 03824. (2)Department of Biology, Indiana
+University, Bloomington, Indiana 47405. (3)Department of Molecular, Cellular, and
+Biomedical Sciences, University of New Hampshire, Durham, New Hampshire 03824
+vaughn.cooper@unh.edu.
+
+Spontaneous mutations are ultimately essential for evolutionary change and are
+also the root cause of many diseases. However, until recently, both biological
+and technical barriers have prevented detailed analyses of mutation profiles,
+constraining our understanding of the mutation process to a few model organisms
+and leaving major gaps in our understanding of the role of genome content and
+structure on mutation. Here, we present a genome-wide view of the molecular
+mutation spectrum in Burkholderia cenocepacia, a clinically relevant pathogen
+with high %GC content and multiple chromosomes. We find that B. cenocepacia has
+low genome-wide mutation rates with insertion-deletion mutations biased toward
+deletions, consistent with the idea that deletion pressure reduces prokaryotic
+genome sizes. Unlike prior studies of other organisms, mutations in B.
+cenocepacia are not AT biased, which suggests that at least some genomes with
+high %GC content experience unusual base-substitution mutation pressure.
+Importantly, we also observe variation in both the rates and spectra of mutations
+among chromosomes and elevated G:C > T:A transversions in late-replicating
+regions. Thus, although some patterns of mutation appear to be highly conserved
+across cellular life, others vary between species and even between chromosomes of
+the same species, potentially influencing the evolution of nucleotide composition
+and genome architecture.
+
+Copyright © 2015 by the Genetics Society of America.
+
+PMCID: PMC4512553 [Available on 2016-07-01]
+PMID: 25971664  [PubMed - in process]
+
+************************************10.1371/journal.pgen.1004430Ex uno plures: clonal reinforcement drives evolution of a simple microbial community.
+1. PLoS Genet. 2014 Jun 26;10(6):e1004430. doi: 10.1371/journal.pgen.1004430.
+eCollection 2014.
+
+Ex uno plures: clonal reinforcement drives evolution of a simple microbial
+community.
+
+Kinnersley M(1), Wenger J(2), Kroll E(1), Adams J(3), Sherlock G(2), Rosenzweig
+F(1).
+
+Author information: 
+(1)Division of Biological Sciences, The University of Montana, Missoula, Montana,
+United States of America. (2)Department of Genetics, Stanford University School
+of Medicine, Stanford, California, United States of America. (3)Departments of
+Molecular, Cellular and Developmental Biology and Ecology and Evolutionary
+Biology, University of Michigan, Ann Arbor, Michigan, United States of America.
+
+A major goal of genetics is to define the relationship between phenotype and
+genotype, while a major goal of ecology is to identify the rules that govern
+community assembly. Achieving these goals by analyzing natural systems can be
+difficult, as selective pressures create dynamic fitness landscapes that vary in 
+both space and time. Laboratory experimental evolution offers the benefit of
+controlling variables that shape fitness landscapes, helping to achieve both
+goals. We previously showed that a clonal population of E. coli experimentally
+evolved under continuous glucose limitation gives rise to a genetically diverse
+community consisting of one clone, CV103, that best scavenges but incompletely
+utilizes the limiting resource, and others, CV101 and CV116, that consume its
+overflow metabolites. Because this community can be disassembled and reassembled,
+and involves cooperative interactions that are stable over time, its genetic
+diversity is sustained by clonal reinforcement rather than by clonal
+interference. To understand the genetic factors that produce this outcome, and to
+illuminate the community's underlying physiology, we sequenced the genomes of
+ancestral and evolved clones. We identified ancestral mutations in intermediary
+metabolism that may have predisposed the evolution of metabolic interdependence. 
+Phylogenetic reconstruction indicates that the lineages that gave rise to this
+community diverged early, as CV103 shares only one Single Nucleotide Polymorphism
+with the other evolved clones. Underlying CV103's phenotype we identified a set
+of mutations that likely enhance glucose scavenging and maintain redox balance,
+but may do so at the expense of carbon excreted in overflow metabolites. Because 
+these overflow metabolites serve as growth substrates that are differentially
+accessible to the other community members, and because the scavenging lineage
+shares only one SNP with these other clones, we conclude that this lineage likely
+served as an "engine" generating diversity by creating new metabolic niches, but 
+not the occupants themselves.
+
+PMCID: PMC4072538
+PMID: 24968217  [PubMed - indexed for MEDLINE]
+
+************************************10.1534/g3.114.011825Species-level deconvolution of metagenome assemblies with Hi-C-based contact probability maps.
+1. G3 (Bethesda). 2014 May 22;4(7):1339-46. doi: 10.1534/g3.114.011825.
+
+Species-level deconvolution of metagenome assemblies with Hi-C-based contact
+probability maps.
+
+Burton JN(1), Liachko I(1), Dunham MJ(2), Shendure J(2).
+
+Author information: 
+(1)Department of Genome Sciences, University of Washington, Seattle, Washington
+98195-5065. (2)Department of Genome Sciences, University of Washington, Seattle, 
+Washington 98195-5065 maitreya@uw.edu shendure@uw.edu.
+
+Microbial communities consist of mixed populations of organisms, including
+unknown species in unknown abundances. These communities are often studied
+through metagenomic shotgun sequencing, but standard library construction methods
+remove long-range contiguity information; thus, shotgun sequencing and de novo
+assembly of a metagenome typically yield a collection of contigs that cannot
+readily be grouped by species. Methods for generating chromatin-level contact
+probability maps, e.g., as generated by the Hi-C method, provide a signal of
+contiguity that is completely intracellular and contains both intrachromosomal
+and interchromosomal information. Here, we demonstrate how this signal can be
+exploited to reconstruct the individual genomes of microbial species present
+within a mixed sample. We apply this approach to two synthetic metagenome
+samples, successfully clustering the genome content of fungal, bacterial, and
+archaeal species with more than 99% agreement with published reference genomes.
+We also show that the Hi-C signal can secondarily be used to create scaffolded
+genome assemblies of individual eukaryotic species present within the microbial
+community, with higher levels of contiguity than some of the species' published
+reference genomes.
+
+Copyright © 2014 Burton et al.
+
+PMCID: PMC4455782
+PMID: 24855317  [PubMed - indexed for MEDLINE]
+
+************************************10.1534/genetics.111.128942Genetic variation and the fate of beneficial mutations in asexual populations.
+1. Genetics. 2011 Jul;188(3):647-61. doi: 10.1534/genetics.111.128942. Epub 2011 May
+5.
+
+Genetic variation and the fate of beneficial mutations in asexual populations.
+
+Lang GI(1), Botstein D, Desai MM.
+
+Author information: 
+(1)Lewis-Sigler Institute for Integrative Genomics, Princeton University,
+Princeton, New Jersey 08544, USA.
+
+The fate of a newly arising beneficial mutation depends on many factors, such as 
+the population size and the availability and fitness effects of other mutations
+that accumulate in the population. It has proved difficult to understand how
+these factors influence the trajectories of particular mutations, since
+experiments have primarily focused on characterizing successful clones emerging
+from a small number of evolving populations. Here, we present the results of a
+massively parallel experiment designed to measure the full spectrum of possible
+fates of new beneficial mutations in hundreds of experimental yeast populations, 
+whether these mutations are ultimately successful or not. Using strains in which 
+a particular class of beneficial mutation is detectable by fluorescence, we
+followed the trajectories of these beneficial mutations across 592 independent
+populations for 1000 generations. We find that the fitness advantage provided by 
+individual mutations plays a surprisingly small role. Rather, underlying
+"background" genetic variation is quickly generated in our initially clonal
+populations and plays a crucial role in determining the fate of each individual
+beneficial mutation in the evolving population.
+
+PMCID: PMC3176544
+PMID: 21546542  [PubMed - indexed for MEDLINE]
+
+************************************10.1371/journal.pgen.1003366Recurrent rearrangement during adaptive evolution in an interspecific yeast hybrid suggests a model for rapid introgression.
+1. PLoS Genet. 2013 Mar;9(3):e1003366. doi: 10.1371/journal.pgen.1003366. Epub 2013 
+Mar 21.
+
+Recurrent rearrangement during adaptive evolution in an interspecific yeast
+hybrid suggests a model for rapid introgression.
+
+Dunn B(1), Paulish T, Stanbery A, Piotrowski J, Koniges G, Kroll E, Louis EJ,
+Liti G, Sherlock G, Rosenzweig F.
+
+Author information: 
+(1)Department of Genetics, Stanford University School of Medicine, Stanford,
+California, United States of America.
+
+Genome rearrangements are associated with eukaryotic evolutionary processes
+ranging from tumorigenesis to speciation. Rearrangements are especially common
+following interspecific hybridization, and some of these could be expected to
+have strong selective value. To test this expectation we created de novo
+interspecific yeast hybrids between two diverged but largely syntenic
+Saccharomyces species, S. cerevisiae and S. uvarum, then experimentally evolved
+them under continuous ammonium limitation. We discovered that a characteristic
+interspecific genome rearrangement arose multiple times in independently evolved 
+populations. We uncovered nine different breakpoints, all occurring in a narrow
+~1-kb region of chromosome 14, and all producing an "interspecific fusion
+junction" within the MEP2 gene coding sequence, such that the 5' portion derives 
+from S. cerevisiae and the 3' portion derives from S. uvarum. In most cases the
+rearrangements altered both chromosomes, resulting in what can be considered to
+be an introgression of a several-kb region of S. uvarum into an otherwise intact 
+S. cerevisiae chromosome 14, while the homeologous S. uvarum chromosome 14
+experienced an interspecific reciprocal translocation at the same breakpoint
+within MEP2, yielding a chimaeric chromosome; these events result in the presence
+in the cell of two MEP2 fusion genes having identical breakpoints. Given that
+MEP2 encodes for a high-affinity ammonium permease, that MEP2 fusion genes arise 
+repeatedly under ammonium-limitation, and that three independent evolved isolates
+carrying MEP2 fusion genes are each more fit than their common ancestor, the
+novel MEP2 fusion genes are very likely adaptive under ammonium limitation. Our
+results suggest that, when homoploid hybrids form, the admixture of two genomes
+enables swift and otherwise unavailable evolutionary innovations. Furthermore,
+the architecture of the MEP2 rearrangement suggests a model for rapid
+introgression, a phenomenon seen in numerous eukaryotic phyla, that does not
+require repeated backcrossing to one of the parental species.
+
+PMCID: PMC3605161
+PMID: 23555283  [PubMed - indexed for MEDLINE]
+
+************************************10.1534/genetics.113.152918A new system for comparative functional genomics of Saccharomyces yeasts.
+1. Genetics. 2013 Sep;195(1):275-87. doi: 10.1534/genetics.113.152918. Epub 2013 Jul
+12.
+
+A new system for comparative functional genomics of Saccharomyces yeasts.
+
+Caudy AA(1), Guan Y, Jia Y, Hansen C, DeSevo C, Hayes AP, Agee J,
+Alvarez-Dominguez JR, Arellano H, Barrett D, Bauerle C, Bisaria N, Bradley PH,
+Breunig JS, Bush E, Cappel D, Capra E, Chen W, Clore J, Combs PA, Doucette C,
+Demuren O, Fellowes P, Freeman S, Frenkel E, Gadala-Maria D, Gawande R, Glass D, 
+Grossberg S, Gupta A, Hammonds-Odie L, Hoisos A, Hsi J, Hsu YH, Inukai S,
+Karczewski KJ, Ke X, Kojima M, Leachman S, Lieber D, Liebowitz A, Liu J, Liu Y,
+Martin T, Mena J, Mendoza R, Myhrvold C, Millian C, Pfau S, Raj S, Rich M,
+Rokicki J, Rounds W, Salazar M, Salesi M, Sharma R, Silverman S, Singer C, Sinha 
+S, Staller M, Stern P, Tang H, Weeks S, Weidmann M, Wolf A, Young C, Yuan J,
+Crutchfield C, McClean M, Murphy CT, Llinás M, Botstein D, Troyanskaya OG, Dunham
+MJ.
+
+Author information: 
+(1)Donnelly Centre for Cellular and Biomolecular Research, University of Toronto,
+Toronto, Ontario M5S 3E1, Canada.
+
+Whole-genome sequencing, particularly in fungi, has progressed at a tremendous
+rate. More difficult, however, is experimental testing of the inferences about
+gene function that can be drawn from comparative sequence analysis alone. We
+present a genome-wide functional characterization of a sequenced but
+experimentally understudied budding yeast, Saccharomyces bayanus var. uvarum
+(henceforth referred to as S. bayanus), allowing us to map changes over the 20
+million years that separate this organism from S. cerevisiae. We first created a 
+suite of genetic tools to facilitate work in S. bayanus. Next, we measured the
+gene-expression response of S. bayanus to a diverse set of perturbations
+optimized using a computational approach to cover a diverse array of functionally
+relevant biological responses. The resulting data set reveals that
+gene-expression patterns are largely conserved, but significant changes may exist
+in regulatory networks such as carbohydrate utilization and meiosis. In addition 
+to regulatory changes, our approach identified gene functions that have diverged.
+The functions of genes in core pathways are highly conserved, but we observed
+many changes in which genes are involved in osmotic stress, peroxisome
+biogenesis, and autophagy. A surprising number of genes specific to S. bayanus
+respond to oxidative stress, suggesting the organism may have evolved under
+different selection pressures than S. cerevisiae. This work expands the scope of 
+genome-scale evolutionary studies from sequence-based analysis to rapid
+experimental characterization and could be adopted for functional mapping in any 
+lineage of interest. Furthermore, our detailed characterization of S. bayanus
+provides a valuable resource for comparative functional genomics studies in
+yeast.
+
+PMCID: PMC3761308
+PMID: 23852385  [PubMed - indexed for MEDLINE]
+
+************************************10.1534/genetics.112.147157Genetic diversity and the structure of genealogies in rapidly adapting populations.
+1. Genetics. 2013 Feb;193(2):565-85. doi: 10.1534/genetics.112.147157. Epub 2012 Dec
+5.
+
+Genetic diversity and the structure of genealogies in rapidly adapting
+populations.
+
+Desai MM(1), Walczak AM, Fisher DS.
+
+Author information: 
+(1)Department of Organismic and Evolutionary Biology, Department of Physics and
+FAS Center for Systems Biology, Harvard University, Cambridge, MA 02138, USA.
+mdesai@oeb.harvard.edu
+
+Positive selection distorts the structure of genealogies and hence alters
+patterns of genetic variation within a population. Most analyses of these
+distortions focus on the signatures of hitchhiking due to hard or soft selective 
+sweeps at a single genetic locus. However, in linked regions of rapidly adapting 
+genomes, multiple beneficial mutations at different loci can segregate
+simultaneously within the population, an effect known as clonal interference.
+This leads to a subtle interplay between hitchhiking and interference effects,
+which leads to a unique signature of rapid adaptation on genetic variation both
+at the selected sites and at linked neutral loci. Here, we introduce an effective
+coalescent theory (a "fitness-class coalescent") that describes how positive
+selection at many perfectly linked sites alters the structure of genealogies. We 
+use this theory to calculate several simple statistics describing genetic
+variation within a rapidly adapting population and to implement efficient
+backward-time coalescent simulations, which can be used to predict how clonal
+interference alters the expected patterns of molecular evolution.
+
+PMCID: PMC3567745
+PMID: 23222656  [PubMed - indexed for MEDLINE]
+
+************************************10.1186/1471-2148-12-46Different selective pressures lead to different genomic outcomes as newly-formed hybrid yeasts evolve.
+1. BMC Evol Biol. 2012 Apr 2;12:46. doi: 10.1186/1471-2148-12-46.
+
+Different selective pressures lead to different genomic outcomes as newly-formed 
+hybrid yeasts evolve.
+
+Piotrowski JS(1), Nagarajan S, Kroll E, Stanbery A, Chiotti KE, Kruckeberg AL,
+Dunn B, Sherlock G, Rosenzweig F.
+
+Author information: 
+(1)Chemical Genomics Research Group, RIKEN Advance Science Institute, Wako, Wako,
+Japan.
+
+BACKGROUND: Interspecific hybridization occurs in every eukaryotic kingdom. While
+hybrid progeny are frequently at a selective disadvantage, in some instances
+their increased genome size and complexity may result in greater stress
+resistance than their ancestors, which can be adaptively advantageous at the
+edges of their ancestors' ranges. While this phenomenon has been repeatedly
+documented in the field, the response of hybrid populations to long-term
+selection has not often been explored in the lab. To fill this knowledge gap we
+crossed the two most distantly related members of the Saccharomyces sensu stricto
+group, S. cerevisiae and S. uvarum, and established a mixed population of
+homoploid and aneuploid hybrids to study how different types of selection impact 
+hybrid genome structure.
+RESULTS: As temperature was raised incrementally from 31°C to 46.5°C over 500
+generations of continuous culture, selection favored loss of the S. uvarum
+genome, although the kinetics of genome loss differed among independent
+replicates. Temperature-selected isolates exhibited greater inherent and induced 
+thermal tolerance than parental species and founding hybrids, and also exhibited 
+ethanol resistance. In contrast, as exogenous ethanol was increased from 0% to
+14% over 500 generations of continuous culture, selection favored euploid S.
+cerevisiae x S. uvarum hybrids. Ethanol-selected isolates were more ethanol
+tolerant than S. uvarum and one of the founding hybrids, but did not exhibit
+resistance to temperature stress. Relative to parental and founding hybrids,
+temperature-selected strains showed heritable differences in cell wall structure 
+in the forms of increased resistance to zymolyase digestion and Micafungin, which
+targets cell wall biosynthesis.
+CONCLUSIONS: This is the first study to show experimentally that the genomic fate
+of newly-formed interspecific hybrids depends on the type of selection they
+encounter during the course of evolution, underscoring the importance of the
+ecological theatre in determining the outcome of the evolutionary play.
+
+PMCID: PMC3372441
+PMID: 22471618  [PubMed - indexed for MEDLINE]
+
+************************************10.1371/journal.pgen.1002202Hunger artists: yeast adapted to carbon limitation show trade-offs under carbon sufficiency.
+1. PLoS Genet. 2011 Aug;7(8):e1002202. doi: 10.1371/journal.pgen.1002202. Epub 2011 
+Aug 4.
+
+Hunger artists: yeast adapted to carbon limitation show trade-offs under carbon
+sufficiency.
+
+Wenger JW(1), Piotrowski J, Nagarajan S, Chiotti K, Sherlock G, Rosenzweig F.
+
+Author information: 
+(1)Department of Genetics, Stanford University, Stanford, California, USA.
+
+As organisms adaptively evolve to a new environment, selection results in the
+improvement of certain traits, bringing about an increase in fitness. Trade-offs 
+may result from this process if function in other traits is reduced in
+alternative environments either by the adaptive mutations themselves or by the
+accumulation of neutral mutations elsewhere in the genome. Though the cost of
+adaptation has long been a fundamental premise in evolutionary biology, the
+existence of and molecular basis for trade-offs in alternative environments are
+not well-established. Here, we show that yeast evolved under aerobic glucose
+limitation show surprisingly few trade-offs when cultured in other carbon-limited
+environments, under either aerobic or anaerobic conditions. However, while
+adaptive clones consistently outperform their common ancestor under carbon
+limiting conditions, in some cases they perform less well than their ancestor in 
+aerobic, carbon-rich environments, indicating that trade-offs can appear when
+resources are non-limiting. To more deeply understand how adaptation to one
+condition affects performance in others, we determined steady-state transcript
+abundance of adaptive clones grown under diverse conditions and performed
+whole-genome sequencing to identify mutations that distinguish them from one
+another and from their common ancestor. We identified mutations in genes involved
+in glucose sensing, signaling, and transport, which, when considered in the
+context of the expression data, help explain their adaptation to carbon poor
+environments. However, different sets of mutations in each independently evolved 
+clone indicate that multiple mutational paths lead to the adaptive phenotype. We 
+conclude that yeasts that evolve high fitness under one resource-limiting
+condition also become more fit under other resource-limiting conditions, but may 
+pay a fitness cost when those same resources are abundant.
+
+PMCID: PMC3150441
+PMID: 21829391  [PubMed - indexed for MEDLINE]
+
+************************************10.1128/JB.01018-15Laboratory evolution of microbial interactions in bacterial biofilms.
+1. J Bacteriol. 2016 Apr 4. pii: JB.01018-15. [Epub ahead of print]
+
+Laboratory evolution of microbial interactions in bacterial biofilms.
+
+Martin M(1), Hölscher T(1), Dragoš A(1), Cooper VS(2), Kovács ÁT(3).
+
+Author information: 
+(1)Terrestrial Biofilms Group, Institute of Microbiology, Friedrich Schiller
+University Jena, Jena, Germany. (2)Department of Microbiology and Molecular
+Genetics, University of Pittsburgh, Pittsburgh, PA. (3)Terrestrial Biofilms
+Group, Institute of Microbiology, Friedrich Schiller University Jena, Jena,
+Germany akos-tibor.kovacs@uni-jena.de.
+
+Microbial adaptation is conspicuous in essentially every environment but the
+mechanisms of adaptive evolution are poorly understood. Studying evolution in the
+laboratory under controlled conditions can be a tractable approach, particularly 
+when new, discernible phenotypes evolve rapidly. This is especially the case in
+the spatially structured environments of biofilms, which promote the occurrence
+and stability of new, heritable phenotypes. Further, diversity in biofilms can
+give rise to nascent social interactions among coexisting mutants and enable the 
+study of the emerging field of sociomicrobiology. Here, we review findings from
+laboratory evolution experiments with eitherPseudomonas fluorescensorBurkholderia
+cenocepaciain spatially structured environments that promote biofilm formation.
+In both systems, ecotypes with overlapping niches evolve and produce competitive 
+or facilitative interactions that lead to novel community attributes,
+demonstrating the parallelism of adaptive processes captured in the lab.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+PMID: 27044625  [PubMed - as supplied by publisher]
+
+************************************10.1128/JB.00048-16The evolution of ecological diversity in biofilms of Pseudomonas aeruginosa by altered cyclic diguanylate signaling.
+1. J Bacteriol. 2016 Mar 28. pii: JB.00048-16. [Epub ahead of print]
+
+The evolution of ecological diversity in biofilms of Pseudomonas aeruginosa by
+altered cyclic diguanylate signaling.
+
+Flynn KM(1), Dowell G(1), Johnson TM(1), Koestler BJ(2), Waters CM(2), Cooper
+VS(3).
+
+Author information: 
+(1)Department of Molecular, Cellular, and Biomedical Sciences, University of New 
+Hampshire, Durham, NH USA. (2)Department of Microbiology and Molecular Genetics, 
+Michigan State University, East Lansing, MI, USA. (3)Department of Molecular,
+Cellular, and Biomedical Sciences, University of New Hampshire, Durham, NH USA
+Department of Microbiology and Molecular Genetics, University of Pittsburgh
+School of Medicine, Pittsburgh, PA USA . vaughn.cooper@pitt.edu.
+
+The ecological and evolutionary forces that promote and maintain diversity in
+biofilms are not well understood. To quantify these forces, threePseudomonas
+aeruginosapopulations were experimentally evolved from strain PA14 in a daily
+cycle of attachment, assembly and dispersal for 600 generations. Each biofilm
+population evolved diverse colony morphologies and mutator genotypes defective in
+DNA mismatch repair. This diversity enhanced population fitness and biofilm
+output, owing partly to rare, early-colonizing mutants that enhanced attachment
+of others. Evolved mutants exhibited varied levels of the intracellular signal
+cyclic-di-GMP, which associated with their timing of adherence. Manipulating
+cyclic-di-GMP levels within individual mutants revealed a network of interactions
+in the population that depended on varied attachment strategies related to this
+signal. Diversification in biofilms may therefore arise and be reinforced by
+initial colonists that enable community assembly.IMPORTANCE: How biofilm
+diversity assembles, evolves and contributes to community function is largely
+unknown. This presents a major challenge for understanding evolution during
+chronic infections and during the growth of all surface-associated microbes. We
+used experimental evolution to probe these dynamics and found that diversity,
+partly related to altered cyclic-di-GMP levels, arose and persisted due to the
+emergence of ecological interdependencies related to attachment patterns. Clonal 
+isolates failed to capture population attributes, which points to the need to
+account for diversity in infections. More broadly, this study offers an
+experimental framework for linking phenotypic variation to distinct ecological
+strategies in biofilms and for studying eco-evolutionary interactions.
+
+Copyright © 2016 Flynn et al.
+
+PMID: 27021563  [PubMed - as supplied by publisher]
+
+************************************10.1111/evo.12868Diverse phenotypic and genetic responses to short-term selection in evolving Escherichia coli populations.
+1. Evolution. 2016 Mar;70(3):586-99. doi: 10.1111/evo.12868. Epub 2016 Feb 12.
+
+Diverse phenotypic and genetic responses to short-term selection in evolving
+Escherichia coli populations.
+
+Dillon MM(1), Rouillard NP(1), Van Dam B(1), Gallet R(2), Cooper VS(3,)(4).
+
+Author information: 
+(1)Department of Molecular, Cellular, and Biomedical Sciences, University of New 
+Hampshire, Durham, New Hampshire, 03824. (2)INRA - UMR BGPI Cirad TA A-54/K,
+Campus International de Baillarguet, 34398, Montpellier, Cedex 5, France.
+(3)Department of Molecular, Cellular, and Biomedical Sciences, University of New 
+Hampshire, Durham, New Hampshire, 03824. vaughn.cooper@pitt.edu. (4)Department of
+Microbiology and Molecular Genetics, University of Pittsburgh School of Medicine,
+Pittsburgh, Pennsylvania, 15219. vaughn.cooper@pitt.edu.
+
+Beneficial mutations fuel adaptation by altering phenotypes that enhance the fit 
+of organisms to their environment. However, the phenotypic effects of mutations
+often depend on ecological context, making the distribution of effects across
+multiple environments essential to understanding the true nature of beneficial
+mutations. Studies that address both the genetic basis and ecological
+consequences of adaptive mutations remain rare. Here, we characterize the direct 
+and pleiotropic fitness effects of a collection of 21 first-step beneficial
+mutants derived from naïve and adapted genotypes used in a long-term experimental
+evolution of Escherichia coli. Whole-genome sequencing was able to identify the
+majority of beneficial mutations. In contrast to previous studies, we find
+diverse fitness effects of mutations selected in a simple environment and few
+cases of genetic parallelism. The pleiotropic effects of these mutations were
+predominantly positive but some mutants were highly antagonistic in alternative
+environments. Further, the fitness effects of mutations derived from the adapted 
+genotypes were dramatically reduced in nearly all environments. These findings
+suggest that many beneficial variants are accessible from a single point on the
+fitness landscape, and the fixation of alternative beneficial mutations may have 
+dramatic consequences for niche breadth reduction via metabolic erosion.
+
+© 2016 The Author(s). Evolution © 2016 The Society for the Study of Evolution.
+
+PMID: 26995338  [PubMed - in process]
+
+************************************10.1111/acel.12443Aneuploidy shortens replicative lifespan in Saccharomyces cerevisiae.
+1. Aging Cell. 2016 Apr;15(2):317-24. doi: 10.1111/acel.12443. Epub 2016 Jan 13.
+
+Aneuploidy shortens replicative lifespan in Saccharomyces cerevisiae.
+
+Sunshine AB(1), Ong GT(1), Nickerson DP(2), Carr D(3), Murakami CJ(3), Wasko
+BM(3), Shemorry A(3), Merz AJ(2), Kaeberlein M(3), Dunham MJ(1).
+
+Author information: 
+(1)Department of Genome Sciences, University of Washington, Foege Building, Room 
+S403B, 3720 15th Ave NE, Box 355065, Seattle, WA, 98195-5065, USA. (2)Departments
+of Biochemistry and Physiology and Biophysics, University of Washington, Room HSB
+J-355, 1705 NE Pacific St, UW box 357350, Seattle, WA, 98195-7350, USA.
+(3)Department of Pathology, University of Washington, Room HSB D-514, 1705 NE
+Pacific St, Box 357470, Seattle, WA, 98195-7470, USA.
+
+Aneuploidy and aging are correlated; however, a causal link between these two
+phenomena has remained elusive. Here, we show that yeast disomic for a single
+native yeast chromosome generally have a decreased replicative lifespan. In
+addition, the extent of this lifespan deficit correlates with the size of the
+extra chromosome. We identified a mutation in BUL1 that rescues both the lifespan
+deficit and a protein trafficking defect in yeast disomic for chromosome 5. Bul1 
+is an E4 ubiquitin ligase adaptor involved in a protein quality control pathway
+that targets membrane proteins for endocytosis and destruction in the lysosomal
+vacuole, thereby maintaining protein homeostasis. Concurrent suppression of the
+aging and trafficking phenotypes suggests that disrupted membrane protein
+homeostasis in aneuploid yeast may contribute to their accelerated aging. The
+data reported here demonstrate that aneuploidy can impair protein homeostasis,
+shorten lifespan, and may contribute to age-associated phenotypes.
+
+© 2016 The Authors. Aging Cell published by the Anatomical Society and John Wiley
+& Sons Ltd.
+
+PMCID: PMC4783355
+PMID: 26762766  [PubMed - in process]
+
+************************************10.1534/genetics.116.188037The Effects of Cis-Regulatory Mutations in the SUL1 Gene on Sulfate-Limited Fitness in Yeast.
+1. Genetics. 2016 Mar 2. pii: genetics.116.188037. [Epub ahead of print]
+
+The Effects of Cis-Regulatory Mutations in the SUL1 Gene on Sulfate-Limited
+Fitness in Yeast.
+
+Rich MS(1), Payen C(2), Rubin AF(3), Ong GT(2), Sanchez MR(2), Yachie N(4),
+Dunham MJ(2), Fields S(5).
+
+Author information: 
+(1)University of Washington; University of Tokyo; (2)University of Washington;
+(3)University of Washington; Walter and Eliza Hall Institute for Medical
+Research; (4)University of Tokyo; Keio University; Japan Science and Technology
+Agency. (5)University of Washington; fields@uw.edu.
+
+In the yeast Saccharomyces cerevisiae, beneficial mutations selected during
+sulfate limited growth are typically amplifications of the SUL1 gene which
+encodes the high affinity sulfate transporter, resulting in fitness increases of 
+>35%. Cis-regulatory mutations have not been observed at this locus; however, it 
+is not clear whether this absence is due to a low mutation rate such that these
+mutations do not arise, or they arise but have limited fitness effects relative
+to those of amplification. To address this question directly, we assayed the
+fitness effects of nearly all possible point mutations in a 493 base segment of
+the gene's promoter through mutagenesis and selection. While most mutations were 
+either neutral or detrimental during sulfate-limited growth, eight mutations
+increased fitness more than 5% and as much as 9.4%. Combinations of these
+beneficial mutations increased fitness only up to 11%. Thus, in the case of SUL1,
+promoter mutations could not induce a fitness increase similar to that of gene
+amplification. Using these data, we identified functionally-important regions of 
+the SUL1 promoter and analyzed three sites that correspond to potential binding
+sites for the transcription factors Met32 and Cbf1. Mutations that create new
+Met32 or Cbf1 binding sites also increased fitness. Some mutations in the
+untranslated region of the SUL1 transcript decreased fitness, likely due to the
+formation of inhibitory upstream open-reading frames. Our methodology--saturation
+mutagenesis, chemostat selection, and DNA sequencing to track variants-- should
+be a broadly applicable approach.
+
+Copyright © 2016, The Genetics Society of America.
+
+PMID: 26936925  [PubMed - as supplied by publisher]
+
+************************************10.1186/s12864-015-1697-8Genome sequence and comparative analysis of a putative entomopathogenic Serratia isolated from Caenorhabditis briggsae.
+1. BMC Genomics. 2015 Jul 18;16:531. doi: 10.1186/s12864-015-1697-8.
+
+Genome sequence and comparative analysis of a putative entomopathogenic Serratia 
+isolated from Caenorhabditis briggsae.
+
+Abebe-Akele F(1,)(2), Tisa LS(3), Cooper VS(3), Hatcher PJ(4), Abebe E(5), Thomas
+WK(3,)(6).
+
+Author information: 
+(1)Department of Molecular, Cellular, and Biomedical Sciences, University of New 
+Hampshire, Durham, NH, USA. fai4@unh.edu. (2)Hubbard Center for Genome Studies,
+444 Gregg Hall, University of New Hampshire, 35 Colovos Road, Durham, NH, 03824, 
+USA. fai4@unh.edu. (3)Department of Molecular, Cellular, and Biomedical Sciences,
+University of New Hampshire, Durham, NH, USA. (4)Department of Computer Science, 
+University of New Hampshire, Durham, NH, USA. (5)Department of Biology, Elizabeth
+City State University, 1704 Weeksville Road, Jenkins Science Center 421,
+Elizabeth City, NC, 27909, USA. (6)Hubbard Center for Genome Studies, 444 Gregg
+Hall, University of New Hampshire, 35 Colovos Road, Durham, NH, 03824, USA.
+
+BACKGROUND: Entomopathogenic associations between nematodes in the genera
+Steinernema and Heterorhabdus with their cognate bacteria from the bacterial
+genera Xenorhabdus and Photorhabdus, respectively, are extensively studied for
+their potential as biological control agents against invasive insect species.
+These two highly coevolved associations were results of convergent evolution.
+Given the natural abundance of bacteria, nematodes and insects, it is surprising 
+that only these two associations with no intermediate forms are widely studied in
+the entomopathogenic context. Discovering analogous systems involving novel
+bacterial and nematode species would shed light on the evolutionary processes
+involved in the transition from free living organisms to obligatory partners in
+entomopathogenicity.
+RESULTS: We report the complete genome sequence of a new member of the
+enterobacterial genus Serratia that forms a putative entomopathogenic complex
+with Caenorhabditis briggsae. Analysis of the 5.04 MB chromosomal genome predicts
+4599 protein coding genes, seven sets of ribosomal RNA genes, 84 tRNA genes and a
+64.8 KB plasmid encoding 74 genes. Comparative genomic analysis with three of the
+previously sequenced Serratia species, S. marcescens DB11 and S. proteamaculans
+568, and Serratia sp. AS12, revealed that these four representatives of the genus
+share a core set of ~3100 genes and extensive structural conservation. The newly 
+identified species shares a more recent common ancestor with S. marcescens with
+99% sequence identity in rDNA sequence and orthology across 85.6% of predicted
+genes. Of the 39 genes/operons implicated in the virulence, symbiosis,
+recolonization, immune evasion and bioconversion, 21 (53.8%) were present in
+Serratia while 33 (84.6%) and 35 (89%) were present in Xenorhabdus and
+Photorhabdus EPN bacteria respectively.
+CONCLUSION: The majority of unique sequences in Serratia sp. SCBI (South African 
+Caenorhabditis briggsae Isolate) are found in ~29 genomic islands of 5 to 65
+genes and are enriched in putative functions that are biologically relevant to an
+entomopathogenic lifestyle, including non-ribosomal peptide synthetases,
+bacteriocins, fimbrial biogenesis, ushering proteins, toxins, secondary
+metabolite secretion and multiple drug resistance/efflux systems. By revealing
+the early stages of adaptation to this lifestyle, the Serratia sp. SCBI genome
+underscores the fact that in EPN formation the composite end result - killing,
+bioconversion, cadaver protection and recolonization- can be achieved by
+dissimilar mechanisms. This genome sequence will enable further study of the
+evolution of entomopathogenic nematode-bacteria complexes.
+
+PMCID: PMC4506600
+PMID: 26187596  [PubMed - indexed for MEDLINE]
+
+************************************10.1534/genetics.111.128116The balance between mutators and nonmutators in asexual populations.
+1. Genetics. 2011 Aug;188(4):997-1014. doi: 10.1534/genetics.111.128116. Epub 2011
+Jun 6.
+
+The balance between mutators and nonmutators in asexual populations.
+
+Desai MM(1), Fisher DS.
+
+Author information: 
+(1)Department of Organismic and Evolutionary Biology, Harvard University,
+Cambridge, MA 02138, USA. mdesai@oeb.harvard.edu
+
+Mutator alleles, which elevate an individual's mutation rate from 10 to
+10,000-fold, have been found at high frequencies in many natural and experimental
+populations. Mutators are continually produced from nonmutators, often due to
+mutations in mismatch-repair genes. These mutators gradually accumulate
+deleterious mutations, limiting their spread. However, they can occasionally
+hitchhike to high frequencies with beneficial mutations. We study the interplay
+between these effects. We first analyze the dynamics of the balance between the
+production of mutator alleles and their elimination due to deleterious mutations.
+We find that when deleterious mutation rates are high in mutators, there will
+often be many "young," recently produced mutators in the population, and the fact
+that deleterious mutations only gradually eliminate individuals from a population
+is important. We then consider how this mutator-nonmutator balance can be
+disrupted by beneficial mutations and analyze the circumstances in which fixation
+of mutator alleles is likely. We find that dynamics is crucial: even in
+situations where selection on average acts against mutators, so they cannot
+stably invade, the mutators can still occasionally generate beneficial mutations 
+and hence be important to the evolution of the population.
+
+PMCID: PMC3176104
+PMID: 21652523  [PubMed - indexed for MEDLINE]
+
+************************************10.1007/978-1-4939-3079-1_20Experimental Evolution and Resequencing Analysis of Yeast.
+1. Methods Mol Biol. 2016;1361:361-74. doi: 10.1007/978-1-4939-3079-1_20.
+
+Experimental Evolution and Resequencing Analysis of Yeast.
+
+Payen C(1), Dunham MJ(2).
+
+Author information: 
+(1)Department of Genome Sciences, University of Washington, Seattle, WA, 98195,
+USA. (2)Department of Genome Sciences, University of Washington, Seattle, WA,
+98195, USA. maitreya@uw.edu.
+
+Experimental evolution of microbes is a powerful tool to study adaptation to
+strong selection, the mechanism of evolution and the development of new traits.
+The development of high-throughput sequencing methods has given researchers a new
+ability to cheaply and easily identify mutations genome wide that are selected
+during the course of experimental evolution. Here we provide a protocol for
+conducting experimental evolution of yeast using chemostats, including fitness
+measurement and whole genome sequencing of evolved clones or populations
+collected during the experiment. Depending on the number of generations
+appropriate for the experiment, the number of samples tested and the sequencing
+platform, this protocol takes from 1 month to several months to be completed,
+with the possibility of processing several strains or mutants at once.
+
+PMID: 26483032  [PubMed - in process]
+
+************************************10.1371/journal.pgen.1005699Origin-Dependent Inverted-Repeat Amplification: Tests of a Model for Inverted DNA Amplification.
+1. PLoS Genet. 2015 Dec 23;11(12):e1005699. doi: 10.1371/journal.pgen.1005699.
+eCollection 2015.
+
+Origin-Dependent Inverted-Repeat Amplification: Tests of a Model for Inverted DNA
+Amplification.
+
+Brewer BJ(1), Payen C(1), Di Rienzi SC(1), Higgins MM(1), Ong G(1), Dunham MJ(1),
+Raghuraman MK(1).
+
+Author information: 
+(1)Department of Genome Sciences, University of Washington, Seattle, Washington, 
+United States of America.
+
+DNA replication errors are a major driver of evolution--from single nucleotide
+polymorphisms to large-scale copy number variations (CNVs). Here we test a
+specific replication-based model to explain the generation of interstitial,
+inverted triplications. While no genetic information is lost, the novel inversion
+junctions and increased copy number of the included sequences create the
+potential for adaptive phenotypes. The model--Origin-Dependent Inverted-Repeat
+Amplification (ODIRA)-proposes that a replication error at pre-existing short,
+interrupted, inverted repeats in genomic sequences generates an extrachromosomal,
+inverted dimeric, autonomously replicating intermediate; subsequent genomic
+integration of the dimer yields this class of CNV without loss of distal
+chromosomal sequences. We used a combination of in vitro and in vivo approaches
+to test the feasibility of the proposed replication error and its downstream
+consequences on chromosome structure in the yeast Saccharomyces cerevisiae. We
+show that the proposed replication error-the ligation of leading and lagging
+nascent strands to create "closed" forks-can occur in vitro at short, interrupted
+inverted repeats. The removal of molecules with two closed forks results in a
+hairpin-capped linear duplex that we show replicates in vivo to create an
+inverted, dimeric plasmid that subsequently integrates into the genome by
+homologous recombination, creating an inverted triplication. While other models
+have been proposed to explain inverted triplications and their derivatives, our
+model can also explain the generation of human, de novo, inverted amplicons that 
+have a 2:1 mixture of sequences from both homologues of a single parent--a
+feature readily explained by a plasmid intermediate that arises from one
+homologue and integrates into the other homologue prior to meiosis. Our tests of 
+key features of ODIRA lend support to this mechanism and suggest further avenues 
+of enquiry to unravel the origins of interstitial, inverted CNVs pivotal in human
+health and evolution.
+
+PMCID: PMC4689423
+PMID: 26700858  [PubMed - in process]
+
+************************************10.1128/JCM.00034-15Use of Whole-Genome Phylogeny and Comparisons for Development of a Multiplex PCR Assay To Identify Sequence Type 36 Vibrio parahaemolyticus.
+1. J Clin Microbiol. 2015 Jun;53(6):1864-72. doi: 10.1128/JCM.00034-15. Epub 2015
+Apr 1.
+
+Use of Whole-Genome Phylogeny and Comparisons for Development of a Multiplex PCR 
+Assay To Identify Sequence Type 36 Vibrio parahaemolyticus.
+
+Whistler CA(1), Hall JA(2), Xu F(3), Ilyas S(4), Siwakoti P(4), Cooper VS(2),
+Jones SH(5).
+
+Author information: 
+(1)Department of Molecular, Cellular and Biomedical Sciences, University of New
+Hampshire, Durham, New Hampshire, USA Northeast Center for Vibrio Disease and
+Ecology, University of New Hampshire, Durham, New Hampshire, USA
+cheryl.whistler@unh.edu. (2)Department of Molecular, Cellular and Biomedical
+Sciences, University of New Hampshire, Durham, New Hampshire, USA Northeast
+Center for Vibrio Disease and Ecology, University of New Hampshire, Durham, New
+Hampshire, USA. (3)Department of Molecular, Cellular and Biomedical Sciences,
+University of New Hampshire, Durham, New Hampshire, USA Northeast Center for
+Vibrio Disease and Ecology, University of New Hampshire, Durham, New Hampshire,
+USA Genetics Graduate Program, University of New Hampshire, Durham, New
+Hampshire, USA. (4)Department of Molecular, Cellular and Biomedical Sciences,
+University of New Hampshire, Durham, New Hampshire, USA. (5)Northeast Center for 
+Vibrio Disease and Ecology, University of New Hampshire, Durham, New Hampshire,
+USA Department of Natural Resources and the Environment, University of New
+Hampshire, Durham, New Hampshire, USA.
+
+Vibrio parahaemolyticus sequence type 36 (ST36) strains that are native to the
+Pacific Ocean have recently caused multistate outbreaks of gastroenteritis linked
+to shellfish harvested from the Atlantic Ocean. Whole-genome comparisons of 295
+genomes of V. parahaemolyticus, including several traced to northeastern U.S.
+sources, were used to identify diagnostic loci, one putatively encoding an
+endonuclease (prp), and two others potentially conferring O-antigenic properties 
+(cps and flp). The combination of all three loci was present in only one clade of
+closely related strains of ST36, ST59, and one additional unknown sequence type. 
+However, each locus was also identified outside this clade, with prp and flp
+occurring in only two nonclade isolates and cps in four. Based on the
+distribution of these loci in sequenced genomes, prp identified clade strains
+with >99% accuracy, but the addition of one more locus increased accuracy to
+100%. Oligonucleotide primers targeting prp and cps were combined in a multiplex 
+PCR method that defines species using the tlh locus and determines the presence
+of both the tdh and trh hemolysin-encoding genes, which are also present in ST36.
+Application of the method in vitro to a collection of 94 clinical isolates
+collected over a 4-year period in three northeastern U.S. states and 87
+environmental isolates revealed that the prp and cps amplicons were detected only
+in clinical isolates identified as belonging to the ST36 clade and in no
+environmental isolates from the region. The assay should improve detection and
+surveillance, thereby reducing infections.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+PMCID: PMC4432066
+PMID: 25832299  [PubMed - indexed for MEDLINE]
+
+************************************10.1016/j.ygeno.2014.10.004Experimental microbial evolution: history and conceptual underpinnings.
+1. Genomics. 2014 Dec;104(6 Pt A):393-8. doi: 10.1016/j.ygeno.2014.10.004. Epub 2014
+Oct 12.
+
+Experimental microbial evolution: history and conceptual underpinnings.
+
+Adams J(1), Rosenzweig F(2).
+
+Author information: 
+(1)Department of Molecular, Cellular and Developmental Biology, Department of
+Ecology and Evolutionary Biology, University of Michigan, Ann Arbor, MI 48109,
+USA. Electronic address: julian@umich.edu. (2)Division of Biological Sciences,
+University of Montana, Missoula, MT 59812, USA.
+
+We chronicle and dissect the history of the field of Experimental Microbial
+Evolution, beginning with work by Monod. Early research was largely carried out
+by microbiologists and biochemists, who used experimental evolutionary change as 
+a tool to understand structure-function relationships. These studies attracted
+the interest of evolutionary biologists who recognized the power of the approach 
+to address issues such as the tempo of adaptive change, the costs and benefits of
+sex, parallelism, and the role which contingency plays in the evolutionary
+process. In the 1980s and 1990s, an ever-expanding body of microbial,
+physiological and biochemical data, together with new technologies for
+manipulating microbial genomes, allowed such questions to be addressed in
+ever-increasing detail. Since then, technological advances leading to low-cost,
+high-throughput DNA sequencing have made it possible for these and other
+fundamental questions in evolutionary biology to be addressed at the molecular
+level.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 25315137  [PubMed - indexed for MEDLINE]
+
+************************************10.1371/journal.pone.0025290A test of the coordinated expression hypothesis for the origin and maintenance of the GAL cluster in yeast.
+1. PLoS One. 2011;6(9):e25290. doi: 10.1371/journal.pone.0025290. Epub 2011 Sep 22.
+
+A test of the coordinated expression hypothesis for the origin and maintenance of
+the GAL cluster in yeast.
+
+Lang GI(1), Botstein D.
+
+Author information: 
+(1)Department of Molecular and Cellular Biology and The Lewis-Sigler Institute
+for Integrative Genomics, Princeton University, Princeton, New Jersey, United
+States of America.
+
+Metabolic gene clusters--functionally related and physically clustered genes--are
+a common feature of some eukaryotic genomes. Two hypotheses have been advanced to
+explain the origin and maintenance of metabolic gene clusters: coordinated gene
+expression and genetic linkage. Here we test the hypothesis that selection for
+coordinated gene expression underlies the clustering of GAL genes in the yeast
+genome. We find that, although clustering coordinates the expression of GAL1 and 
+GAL10, disrupting the GAL cluster does not impair fitness, suggesting that other 
+mechanisms, such as genetic linkage, drive the origin and maintenance metabolic
+gene clusters.
+
+PMCID: PMC3178652
+PMID: 21966486  [PubMed - indexed for MEDLINE]
+
+************************************10.1097/FTD.0000000000000231Automated Analysis of Clozapine and Norclozapine in Human Plasma Using Novel Extraction Plate Technology and Flow-Injection Tandem Mass Spectrometry.
+1. Ther Drug Monit. 2016 Feb;38(1):42-9. doi: 10.1097/FTD.0000000000000231.
+
+Automated Analysis of Clozapine and Norclozapine in Human Plasma Using Novel
+Extraction Plate Technology and Flow-Injection Tandem Mass Spectrometry.
+
+Couchman L(1), Subramaniam K, Fisher DS, Belsey SL, Handley SA, Flanagan RJ.
+
+Author information: 
+(1)Viapath Analytics, Toxicology Unit, Department of Clinical Biochemistry,
+King's College Hospital NHS Foundation Trust, London, United Kingdom.
+
+BACKGROUND: Analysis of plasma clozapine and N-desmethylclozapine (norclozapine) 
+for therapeutic drug monitoring purposes is well established. To minimize
+analysis times and facilitate rapid reporting of results, we have fully automated
+sample preparation using novel AC Extraction Plates and a Tecan Freedom EVO 100
+liquid handling platform, and minimized extract analysis times using
+flow-injection tandem mass spectrometry (FIA-MS/MS).
+METHODS: Analytes and deuterium-labeled internal standards were extracted from
+plasma (100 μL) at pH 10.6 and extracts analyzed directly using tandem mass
+spectrometry [20 μL injection, 0.7 mL/min methanol carrier flow, analysis time
+(injection-to-injection) approximately 60 seconds].
+RESULTS: Validation data showed excellent intraplate and interplate accuracy
+(95%-104% nominal concentrations). Interbatch precision (% RSD) at the limit of
+quantitation (0.01 mg/L) was 3.5% and 5.5% for clozapine and norclozapine,
+respectively. Matrix effects were observed for both clozapine and norclozapine,
+but were compensated for by the internal standards. Overall process efficiency
+was 56%-70% and 66%-77% for clozapine and norclozapine, respectively. Mean
+relative process efficiency was 98% and 99% for clozapine and norclozapine,
+respectively. Comparison of results from patient samples (n = 81) analyzed using 
+(1) manual liquid-liquid extraction with liquid chromatography-tandem mass
+spectrometry (LC-MS/MS) and (2) automated extraction with FIA-MS/MS gave y =
+1.01x - 0.002, R = 0.9943 and y = 1.01x + 0.009, R = 0.9957 for clozapine and
+norclozapine, respectively. Bland-Altman plots revealed a [mean (95% limits of
+agreement) bias of 0.0074 (-0.04 to 0.06) mg/L and of 0.015 (-0.02 to 0.05) mg/L 
+for clozapine and norclozapine, respectively].
+CONCLUSIONS: FIA-MS/MS used with automated extraction offers a rapid, simple,
+cost-effective alternative to manual liquid-liquid extraction and conventional LC
+analysis for clozapine therapeutic drug monitoring.
+
+PMID: 26349082  [PubMed - in process]
+
+************************************10.1111/evo.12581Character displacement and the evolution of niche complementarity in a model biofilm community.
+1. Evolution. 2015 Feb;69(2):283-93. doi: 10.1111/evo.12581. Epub 2015 Jan 19.
+
+Character displacement and the evolution of niche complementarity in a model
+biofilm community.
+
+Ellis CN(1), Traverse CC, Mayo-Smith L, Buskirk SW, Cooper VS.
+
+Author information: 
+(1)Department of Molecular, Cellular, and Biomedical Sciences, University of New 
+Hampshire, 212 Rudman Hall, Durham, New Hampshire, 03824; Current Address:
+Division of Infectious Diseases, Department of Medicine, Massachusetts General
+Hospital, 55 Fruit Street, Boston, Massachusetts, 02114. cnellis@partners.org.
+
+Colonization of vacant environments may catalyze adaptive diversification and be 
+followed by competition within the nascent community. How these interactions
+ultimately stabilize and affect productivity are central problems in evolutionary
+ecology. Diversity can emerge by character displacement, in which selection
+favors phenotypes that exploit an alternative resource and reduce competition, or
+by facilitation, in which organisms change the environment and enable different
+genotypes or species to become established. We previously developed a model of
+long-term experimental evolution in which bacteria attach to a plastic bead, form
+a biofilm, and disperse to a new bead. Here, we focus on the evolution of
+coexisting mutants within a population of Burkholderia cenocepacia and how their 
+interactions affected productivity. Adaptive mutants initially competed for
+space, but later competition declined, consistent with character displacement and
+the predicted effects of the evolved mutations. The community reached a stable
+equilibrium as each ecotype evolved to inhabit distinct, complementary regions of
+the biofilm. Interactions among ecotypes ultimately became facilitative and
+enhanced mixed productivity. Observing the succession of genotypes within niches 
+illuminated changing selective forces within the community, including a
+fundamental role for genotypes producing small colony variants that underpin
+chronic infections caused by B. cenocepacia.
+
+© 2014 The Author(s). Evolution published by Wiley Periodicals, Inc. on behalf of
+The Society for the Study of Evolution.
+
+PMCID: PMC4335599
+PMID: 25494960  [PubMed - indexed for MEDLINE]
+
+************************************10.1186/s12864-015-1755-2Evolutionary engineering of a wine yeast strain revealed a key role of inositol and mannoprotein metabolism during low-temperature fermentation.
+1. BMC Genomics. 2015 Jul 22;16:537. doi: 10.1186/s12864-015-1755-2.
+
+Evolutionary engineering of a wine yeast strain revealed a key role of inositol
+and mannoprotein metabolism during low-temperature fermentation.
+
+López-Malo M(1), García-Rios E(1), Melgar B(1), Sanchez MR(2), Dunham MJ(2),
+Guillamón JM(3).
+
+Author information: 
+(1)Departamento de Biotecnología de los alimentos, Instituto de Agroquímica y
+Tecnología de los Alimentos (CSIC), Avda. Agustín Escardino, 7, E-46980, Paterna,
+Valencia, Spain. (2)Department of Genome Sciences, University of Washington,
+Seattle, WA, 98195, USA. (3)Departamento de Biotecnología de los alimentos,
+Instituto de Agroquímica y Tecnología de los Alimentos (CSIC), Avda. Agustín
+Escardino, 7, E-46980, Paterna, Valencia, Spain. guillamon@iata.csic.es.
+
+BACKGROUND: Wine produced at low temperature is often considered to improve
+sensory qualities. However, there are certain drawbacks to low temperature
+fermentations: e.g. low growth rate, long lag phase, and sluggish or stuck
+fermentations. Selection and development of new Saccharomyces cerevisiae strains 
+well adapted at low temperature is interesting for future biotechnological
+applications. This study aimed to select and develop wine yeast strains that well
+adapt to ferment at low temperature through evolutionary engineering, and to
+decipher the process underlying the obtained phenotypes.
+RESULTS: We used a pool of 27 commercial yeast strains and set up batch serial
+dilution experiments to mimic wine fermentation conditions at 12 °C. Evolutionary
+engineering was accomplished by using the natural yeast mutation rate and
+mutagenesis procedures. One strain (P5) outcompeted the others under both
+experimental conditions and was able to impose after 200 generations. The evolved
+strains showed improved growth and low-temperature fermentation performance
+compared to the ancestral strain. This improvement was acquired only under
+inositol limitation. The transcriptomic comparison between the evolved and
+parental strains showed the greatest up-regulation in four mannoprotein coding
+genes, which belong to the DAN/TIR family (DAN1, TIR1, TIR4 and TIR3). Genome
+sequencing of the evolved strain revealed the presence of a SNP in the GAA1 gene 
+and the construction of a site-directed mutant (GAA1 (Thr108)) in a derivative
+haploid of the ancestral strain resulted in improved fermentation performance.
+GAA1 encodes a GPI transamidase complex subunit that adds GPI, which is required 
+for inositol synthesis, to newly synthesized proteins, including mannoproteins.
+CONCLUSIONS: In this study we demonstrate the importance of inositol and
+mannoproteins in yeast adaptation at low temperature and the central role of the 
+GAA1 gene by linking both metabolisms.
+
+PMCID: PMC4509780
+PMID: 26194190  [PubMed - indexed for MEDLINE]
+
+************************************10.1007/978-1-4939-3052-4_1How to Use the Candida Genome Database.
+1. Methods Mol Biol. 2016;1356:3-15. doi: 10.1007/978-1-4939-3052-4_1.
+
+How to Use the Candida Genome Database.
+
+Skrzypek MS(1), Binkley J(1), Sherlock G(2).
+
+Author information: 
+(1)Department of Genetics, Stanford University Medical School, S225 Grant
+Building, 259 Campus Drive, Stanford, CA, 94305-5120, USA. (2)Department of
+Genetics, Stanford University Medical School, S225 Grant Building, 259 Campus
+Drive, Stanford, CA, 94305-5120, USA. gsherlock@stanford.edu.
+
+Studying Candida biology requires access to genomic sequence data in conjunction 
+with experimental information that provides functional context to genes and
+proteins. The Candida Genome Database (CGD) integrates functional information
+about Candida genes and their products with a set of analysis tools that
+facilitate searching for sets of genes and exploring their biological roles. This
+chapter describes how the various types of information available at CGD can be
+searched, retrieved, and analyzed. Starting with the guided tour of the CGD Home 
+page and Locus Summary page, this unit shows how to navigate the various
+assemblies of the C. albicans genome, how to use Gene Ontology tools to make
+sense of large-scale data, and how to access the microarray data archived at CGD.
+
+PMID: 26519061  [PubMed - in process]
+
+************************************10.1101/gr.192294.115Structured nucleosome fingerprints enable high-resolution mapping of chromatin architecture within regulatory regions.
+1. Genome Res. 2015 Nov;25(11):1757-70. doi: 10.1101/gr.192294.115. Epub 2015 Aug
+27.
+
+Structured nucleosome fingerprints enable high-resolution mapping of chromatin
+architecture within regulatory regions.
+
+Schep AN(1), Buenrostro JD(1), Denny SK(2), Schwartz K(1), Sherlock G(1),
+Greenleaf WJ(3).
+
+Author information: 
+(1)Department of Genetics, Stanford University School of Medicine, Stanford,
+California 94305, USA; (2)Biophysics Program, Stanford University School of
+Medicine, Stanford, California 94305, USA; (3)Department of Genetics, Stanford
+University School of Medicine, Stanford, California 94305, USA; Department of
+Applied Physics, Stanford University, Stanford, California 94305, USA.
+
+Transcription factors canonically bind nucleosome-free DNA, making the
+positioning of nucleosomes within regulatory regions crucial to the regulation of
+gene expression. Using the assay of transposase accessible chromatin (ATAC-seq), 
+we observe a highly structured pattern of DNA fragment lengths and positions
+around nucleosomes in Saccharomyces cerevisiae, and use this distinctive
+two-dimensional nucleosomal "fingerprint" as the basis for a new
+nucleosome-positioning algorithm called NucleoATAC. We show that NucleoATAC can
+identify the rotational and translational positions of nucleosomes with up to
+base-pair resolution and provide quantitative measures of nucleosome occupancy in
+S. cerevisiae, Schizosaccharomyces pombe, and human cells. We demonstrate the
+application of NucleoATAC to a number of outstanding problems in chromatin
+biology, including analysis of sequence features underlying nucleosome
+positioning, promoter chromatin architecture across species, identification of
+transient changes in nucleosome occupancy and positioning during a dynamic
+cellular response, and integrated analysis of nucleosome occupancy and
+transcription factor binding.
+
+© 2015 Schep et al.; Published by Cold Spring Harbor Laboratory Press.
+
+PMCID: PMC4617971
+PMID: 26314830  [PubMed - in process]
+
+************************************10.3389/fmicb.2015.00272Genetic characterization of clinical and environmental Vibrio parahaemolyticus from the Northeast USA reveals emerging resident and non-indigenous pathogen lineages.
+1. Front Microbiol. 2015 Apr 7;6:272. doi: 10.3389/fmicb.2015.00272. eCollection
+2015.
+
+Genetic characterization of clinical and environmental Vibrio parahaemolyticus
+from the Northeast USA reveals emerging resident and non-indigenous pathogen
+lineages.
+
+Xu F(1), Ilyas S(2), Hall JA(3), Jones SH(4), Cooper VS(3), Whistler CA(3).
+
+Author information: 
+(1)Department of Molecular, Cellular and Biomedical Sciences, University of New
+Hampshire Durham, NH, USA ; Graduate Program in Genetics, University of New
+Hampshire Durham, NH, USA ; Northeast Center for Vibrio Disease and Ecology,
+University of New Hampshire Durham, NH, USA. (2)Department of Molecular, Cellular
+and Biomedical Sciences, University of New Hampshire Durham, NH, USA.
+(3)Department of Molecular, Cellular and Biomedical Sciences, University of New
+Hampshire Durham, NH, USA ; Northeast Center for Vibrio Disease and Ecology,
+University of New Hampshire Durham, NH, USA. (4)Northeast Center for Vibrio
+Disease and Ecology, University of New Hampshire Durham, NH, USA ; Department of 
+Natural Resources and the Environment, University of New Hampshire Durham, NH,
+USA.
+
+Gastric infections caused by the environmentally transmitted pathogen, Vibrio
+parahaemolyticus, have increased over the last two decades, including in many
+parts of the United States (US). However, until recently, infections linked to
+shellfish from the cool northeastern US waters were rare. Cases have risen in the
+Northeast, consistent with changes in local V. parahaemolyticus populations
+toward greater abundance or a shift in constituent pathogens. We examined 94
+clinical isolates from a period of increasing disease in the region and compared 
+them to 200 environmental counterparts to identify resident and non-indigenous
+lineages and to gain insight into the emergence of pathogenic types. Genotyping
+and multi-locus sequence analysis (MLSA) of clinical isolates collected from 2010
+to 2013 in Massachusetts, New Hampshire, and Maine revealed their polyphyletic
+nature. Although 80% of the clinical isolates harbored the trh hemolysin either
+alone or with tdh, and were urease positive, 14% harbored neither hemolysin
+exposing a limitation for these traits in pathogen detection. Resident sequence
+type (ST) 631 strains caused seven infections, and show a relatively recent
+history of recombination with other clinical and environmental lineages present
+in the region. ST34 and ST674 strains were each linked to a single infection and 
+these strain types were also identified from the environment as isolates
+harboring hemolysin genes. Forty-two ST36 isolates were identified from the
+clinical collection, consistent with reports that this strain type caused a rise 
+in regional infections starting in 2012. Whole-genome phylogenies that included
+three ST36 outbreak isolates traced to at least two local sources demonstrated
+that the US Atlantic coastal population of this strain type was indeed derived
+from the Pacific population. This study lays the foundation for understanding
+dynamics within natural populations associated with emergence and invasion of
+pathogenic strain types in the region.
+
+PMCID: PMC4387542
+PMID: 25904905  [PubMed]
+
+************************************10.3389/fgene.2015.00018There and back again: consequences of biofilm specialization under selection for dispersal.
+1. Front Genet. 2015 Feb 11;6:18. doi: 10.3389/fgene.2015.00018. eCollection 2015.
+
+There and back again: consequences of biofilm specialization under selection for 
+dispersal.
+
+O'Rourke D(1), FitzGerald CE(1), Traverse CC(2), Cooper VS(1).
+
+Author information: 
+(1)Molecular, Cellular, and Biomedical Sciences, University of New Hampshire
+Durham, NH, USA. (2)Department of Microbiology, University of Texas at Austin
+Austin, TX, USA.
+
+Experimental evolution paired with modern sequencing can be a powerful approach
+to identify the mechanisms by which bacteria adapt to discrete environmental
+conditions found in nature or during infections. We used this approach to
+identify mechanisms enabling biofilm specialists of the opportunistic respiratory
+pathogen Burkholderia cenocepacia to regain planktonic fitness. Seven mutants
+producing wrinkly (W) small-colony variants by mutations in the wrinkly-spreader 
+operon (wsp) cluster, but with varying duration of biofilm adaptation, served as 
+ancestors of this experiment. Following planktonic growth, each W ancestor
+produced smooth (S) mutants with distinct fitness effects across planktonic,
+biofilm, and dispersal-phase environments. The causes of the S phenotype traced
+to mutations in three gene clusters: wsp, Bcen2424_1436, an uncharacterized
+two-component transcriptional regulator which appears to be critical for wsp
+signaling, and a cohort of genes involved in polysaccharide synthesis. The
+genetic pathway from W to S also associated with evolutionary history in the
+biofilm environment. W mutants isolated from long-term biofilm selection usually 
+produced S types via secondary wsp mutations, whereas S types evolved from less
+adapted W ancestors by a wider scope of mutations. These different genetic
+pathways to suppress the W phenotype suggest that prolonged biofilm adaptation
+limits routes to subsequent planktonic adaptation, despite common initial
+mechanisms of biofilm adaptation. More generally, experimental evolution can be
+used as a nuanced screen for gain-of-function mutations in multiple conditions
+that illustrate tensions that bacteria may face in changing environments or
+hosts.
+
+PMCID: PMC4324302
+PMID: 25717335  [PubMed]
+
+************************************10.1128/EC.00021-15Control of Plasma Membrane Permeability by ABC Transporters.
+1. Eukaryot Cell. 2015 May;14(5):442-53. doi: 10.1128/EC.00021-15. Epub 2015 Feb 27.
+
+Control of Plasma Membrane Permeability by ABC Transporters.
+
+Khakhina S(1), Johnson SS(1), Manoharlal R(1), Russo SB(2), Blugeon C(3), Lemoine
+S(3), Sunshine AB(4), Dunham MJ(4), Cowart LA(2), Devaux F(5), Moye-Rowley WS(6).
+
+Author information: 
+(1)Department of Molecular Physiology and Biophysics, Carver College of Medicine,
+University of Iowa, Iowa City, Iowa, USA. (2)Department of Biochemistry and
+Molecular Biology, Medical University of South Carolina, Charleston, South
+Carolina, USA. (3)École Normale Supérieure, Institut de Biologie de l'ENS, IBENS,
+Paris, France INSERM, U1024, Paris, France CNRS, UMR 8197, Paris, France.
+(4)Department of Genome Sciences, University of Washington, Seattle, Washington, 
+USA. (5)Sorbonne Universités, UPMC Universite Paris 06, UMR 7238, Laboratoire de 
+Biologie Computationnelle et Quantitative, Paris, France CNRS, UMR 7238,
+Laboratoire de Biologie Computationnelle et Quantitative, Paris, France.
+(6)Department of Molecular Physiology and Biophysics, Carver College of Medicine,
+University of Iowa, Iowa City, Iowa, USA scott-moye-rowley@uiowa.edu.
+
+ATP-binding cassette transporters Pdr5 and Yor1 from Saccharomyces cerevisiae
+control the asymmetric distribution of phospholipids across the plasma membrane
+as well as serving as ATP-dependent drug efflux pumps. Mutant strains lacking
+these transporter proteins were found to exhibit very different resistance
+phenotypes to two inhibitors of sphingolipid biosynthesis that act either late
+(aureobasidin A [AbA]) or early (myriocin [Myr]) in the pathway leading to
+production of these important plasma membrane lipids. These pdr5Δ yor1 strains
+were highly AbA resistant but extremely sensitive to Myr. We provide evidence
+that these phenotypic changes are likely due to modulation of the plasma membrane
+flippase complexes, Dnf1/Lem3 and Dnf2/Lem3. Flippases act to move phospholipids 
+from the outer to the inner leaflet of the plasma membrane. Genetic analyses
+indicate that lem3Δ mutant strains are highly AbA sensitive and Myr resistant.
+These phenotypes are fully epistatic to those seen in pdr5Δ yor1 strains. Direct 
+analysis of AbA-induced signaling demonstrated that loss of Pdr5 and Yor1
+inhibited the AbA-triggered phosphorylation of the AGC kinase Ypk1 and its
+substrate Orm1. Microarray experiments found that a pdr5Δ yor1 strain induced a
+Pdr1-dependent induction of the entire Pdr regulon. Our data support the view
+that Pdr5/Yor1 negatively regulate flippase function and activity of the nuclear 
+Pdr1 transcription factor. Together, these data argue that the interaction of the
+ABC transporters Pdr5 and Yor1 with the Lem3-dependent flippases regulates
+permeability of AbA via control of plasma membrane protein function as seen for
+the high-affinity tryptophan permease Tat2.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+PMCID: PMC4421010
+PMID: 25724885  [PubMed - indexed for MEDLINE]
+
+************************************10.1126/science.aae0344Long-read sequence assembly of the gorilla genome.
+1. Science. 2016 Apr 1;352(6281):aae0344. doi: 10.1126/science.aae0344.
+
+Long-read sequence assembly of the gorilla genome.
+
+Gordon D(1), Huddleston J(1), Chaisson MJ(2), Hill CM(2), Kronenberg ZN(2),
+Munson KM(2), Malig M(2), Raja A(1), Fiddes I(3), Hillier LW(4), Dunn C(5), Baker
+C(2), Armstrong J(3), Diekhans M(3), Paten B(3), Shendure J(1), Wilson RK(4),
+Haussler D(3), Chin CS(5), Eichler EE(6).
+
+Author information: 
+(1)Department of Genome Sciences, University of Washington School of Medicine,
+Seattle, WA 98195, USA. Howard Hughes Medical Institute, University of
+Washington, Seattle, WA 98195, USA. (2)Department of Genome Sciences, University 
+of Washington School of Medicine, Seattle, WA 98195, USA. (3)Genomics Institute, 
+University of California Santa Cruz and Howard Hughes Medical Institute, Santa
+Cruz, CA 95064, USA. (4)McDonnell Genome Institute, Department of Medicine,
+Department of Genetics, Washington University School of Medicine, St. Louis, MO
+63108, USA. (5)Pacific Biosciences of California, Menlo Park, CA 94025, USA.
+(6)Department of Genome Sciences, University of Washington School of Medicine,
+Seattle, WA 98195, USA. Howard Hughes Medical Institute, University of
+Washington, Seattle, WA 98195, USA. eee@gs.washington.edu.
+
+Accurate sequence and assembly of genomes is a critical first step for studies of
+genetic variation. We generated a high-quality assembly of the gorilla genome
+using single-molecule, real-time sequence technology and a string graph de novo
+assembly algorithm. The new assembly improves contiguity by two to three orders
+of magnitude with respect to previously released assemblies, recovering 87% of
+missing reference exons and incomplete gene models. Although regions of large,
+high-identity segmental duplications remain largely unresolved, this
+comprehensive assembly provides new biological insight into genetic diversity,
+structural variation, gene loss, and representation of repeat structures within
+the gorilla genome. The approach provides a path forward for the routine assembly
+of mammalian genomes at a level approaching that of the current quality of the
+human genome.
+
+Copyright © 2016, American Association for the Advancement of Science.
+
+PMID: 27034376  [PubMed - indexed for MEDLINE]
+
+************************************10.1111/evo.12537Antibiotic resistance correlates with transmission in plasmid evolution.
+1. Evolution. 2014 Dec;68(12):3368-80. doi: 10.1111/evo.12537. Epub 2014 Nov 24.
+
+Antibiotic resistance correlates with transmission in plasmid evolution.
+
+Turner PE(1), Williams ES, Okeke C, Cooper VS, Duffy S, Wertz JE.
+
+Author information: 
+(1)Department of Ecology and Evolutionary Biology, Yale University, New Haven,
+Connecticut 06520. paul.turner@yale.edu.
+
+Conjugative (horizontally transmissible) plasmids are autonomous replicators,
+whose "self-interests" do not necessarily overlap with those of their hosts. This
+situation causes plasmids and bacteria to sometimes experience differing
+selection pressures. Escherichia coli plasmid pB15 contains genes for resistance 
+to several antibiotics, including tetracycline. When plasmid-bearing cells were
+experimentally evolved in the laboratory, changes in resistance level in the
+unselected tetracycline marker coincided with changes in plasmid rates of
+vertical versus horizontal transmission. Here, we used minimum inhibitory assays 
+that measure resistance levels as quantitative traits to determine phenotypic
+correlations among plasmid characters and to estimate divergence among plasmid
+lineages. Results suggested that plasmid-level evolution led to formation of two 
+phenotypically dissimilar groups: virulent (highly infectious) and avirulent
+(weakly infectious) plasmids. In contrast, measures of carbon-source utilization,
+and fitness assays relative to a common competitor revealed that bacterial hosts 
+generally converged in phenotypic performance, despite divergence among their
+associated plasmids. Preliminary sequence analyses suggested that divergence in
+plasmid conjugation was due to altered configurations of a shufflon region (a
+site-specific recombination system), where genetic rearrangements affect
+conjugative ability. Furthermore, we proposed that correlated resistance and
+transmission in pB15 derivatives were caused by a tetracycline-resistance
+transposon inserted into a transfer operon, allowing transcription from its
+promoter to simultaneously affect both plasmid resistance and transmission.
+
+© 2014 The Author(s). Evolution © 2014 The Society for the Study of Evolution.
+
+PMID: 25351426  [PubMed - indexed for MEDLINE]
+
+************************************10.1016/j.ygeno.2014.09.007Parallel evolution of small colony variants in Burkholderia cenocepacia biofilms.
+1. Genomics. 2014 Dec;104(6 Pt A):447-52. doi: 10.1016/j.ygeno.2014.09.007. Epub
+2014 Sep 28.
+
+Parallel evolution of small colony variants in Burkholderia cenocepacia biofilms.
+
+Cooper VS(1), Staples RK(2), Traverse CC(3), Ellis CN(4).
+
+Author information: 
+(1)Department of Molecular, Cellular, and Biomedical Sciences, University of New 
+Hampshire, Durham, NH 03820, USA. Electronic address: vaughn.cooper@unh.edu.
+(2)Department of Biology and Biochemistry, University of Houston, Houston, TX,
+USA. (3)Department of Microbiology, University of Texas at Austin, Austin, TX,
+USA. (4)Massachusetts General Hospital, Department of Medicine, Division of
+Infectious Diseases, 55 Fruit Street, Boston, MA 02114, USA.
+
+A common phenotype within bacterial biofilms is the small, "wrinkly" colony,
+which may associate with worse prognoses from biofilm-associated infections. The 
+mechanisms that produce these variants in Burkholderia are undefined. Here we
+report the mutational and ecological causes of wrinkly (W) colonies that evolved 
+during experimental biofilm evolution of Burkholderia cenocepacia. Mutations
+clustered in a homologous pathway to the Pseudomonas wsp operon but with a
+distinct terminal signaling mechanism, and their parallel evolution suggested
+that they inhabited an equivalent biofilm niche. We tested this hypothesis of
+niche complementarity by measuring effects of substituting different W variants
+in the same evolved biofilm community. Despite phenotypic differences among W
+mutants growing alone, fitness of reconstituted mixed biofilms did not differ
+significantly. In conclusion, the evolution of small-colony variants in
+Burkholderia biofilms appears to be driven by an ecological opportunity that
+generates strong selection for constitutive wsp mutants to inhabit a common
+niche.
+
+Copyright © 2014 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMID: 25263109  [PubMed - indexed for MEDLINE]
+
+************************************10.1371/journal.pbio.1002155The fitness consequences of aneuploidy are driven by condition-dependent gene effects.
+1. PLoS Biol. 2015 May 26;13(5):e1002155. doi: 10.1371/journal.pbio.1002155.
+eCollection 2015.
+
+The fitness consequences of aneuploidy are driven by condition-dependent gene
+effects.
+
+Sunshine AB(1), Payen C(1), Ong GT(1), Liachko I(1), Tan KM(2), Dunham MJ(1).
+
+Author information: 
+(1)Department of Genome Sciences, University of Washington, Seattle, Washington, 
+United States of America. (2)Department of Biostatistics, University of
+Washington, Seattle, Washington, United States of America.
+
+Aneuploidy is a hallmark of tumor cells, and yet the precise relationship between
+aneuploidy and a cell's proliferative ability, or cellular fitness, has remained 
+elusive. In this study, we have combined a detailed analysis of aneuploid clones 
+isolated from laboratory-evolved populations of Saccharomyces cerevisiae with a
+systematic, genome-wide screen for the fitness effects of telomeric
+amplifications to address the relationship between aneuploidy and cellular
+fitness. We found that aneuploid clones rise to high population frequencies in
+nutrient-limited evolution experiments and show increased fitness relative to
+wild type. Direct competition experiments confirmed that three out of four
+aneuploid events isolated from evolved populations were themselves sufficient to 
+improve fitness. To expand the scope beyond this small number of exemplars, we
+created a genome-wide collection of >1,800 diploid yeast strains, each containing
+a different telomeric amplicon (Tamp), ranging in size from 0.4 to 1,000 kb.
+Using pooled competition experiments in nutrient-limited chemostats followed by
+high-throughput sequencing of strain-identifying barcodes, we determined the
+fitness effects of these >1,800 Tamps under three different conditions. Our data 
+revealed that the fitness landscape explored by telomeric amplifications is much 
+broader than that explored by single-gene amplifications. As also observed in the
+evolved clones, we found the fitness effects of most Tamps to be condition
+specific, with a minority showing common effects in all three conditions. By
+integrating our data with previous work that examined the fitness effects of
+single-gene amplifications genome-wide, we found that a small number of genes
+within each Tamp are centrally responsible for each Tamp's fitness effects. Our
+genome-wide Tamp screen confirmed that telomeric amplifications identified in
+laboratory-evolved populations generally increased fitness. Our results show that
+Tamps are mutations that produce large, typically condition-dependent changes in 
+fitness that are important drivers of increased fitness in asexually evolving
+populations.
+
+PMCID: PMC4444335
+PMID: 26011532  [PubMed - indexed for MEDLINE]
+
+************************************10.1186/s13059-016-0905-4Smash and DASH with Cas9.
+1. Genome Biol. 2016 Mar 5;17(1):42. doi: 10.1186/s13059-016-0905-4.
+
+Smash and DASH with Cas9.
+
+Ramani V(1), Shendure J(2,)(3).
+
+Author information: 
+(1)Department of Genome Sciences, University of Washington, 3720 15th Ave NE,
+Seattle, WA, 98195, USA. vramani@uw.edu. (2)Department of Genome Sciences,
+University of Washington, 3720 15th Ave NE, Seattle, WA, 98195, USA.
+shendure@uw.edu. (3)Howard Hughes Medical Institute, 3720 15th Ave NE, Seattle,
+WA, 98195, USA. shendure@uw.edu.
+
+DeRisi and colleagues present a creative application for Cas9 in vitro, using it 
+to deplete unwanted sequence from DNA libraries. It seems plausible that the in
+vitro use of CRISPR/Cas9 has unrealized potential to revolutionize the practice
+of molecular biology well beyond genome editing.
+
+PMCID: PMC4779193
+PMID: 26944856  [PubMed - in process]
+
+************************************10.1002/humu.22983ALG1-CDG: Clinical and Molecular Characterization of 39 Unreported Patients.
+1. Hum Mutat. 2016 Mar 2. doi: 10.1002/humu.22983. [Epub ahead of print]
+
+ALG1-CDG: Clinical and Molecular Characterization of 39 Unreported Patients.
+
+Ng BG(1), Shiryaev SA(1), Rymen D(2,)(3), Eklund EA(4), Raymond K(5), Kircher
+M(6), Abdenur JE(7,)(8), Alehan F(9), Midro AT(10), Bamshad MJ(6,)(11), Barone
+R(12), Berry GT(13), Brumbaugh JE(14), Buckingham KJ(11), Clarkson K(15), Cole
+FS(16), O'Connor S(16), Cooper GM(17), Van Coster R(18), Demmer LA(19), Diogo
+L(20), Fay AJ(21), Ficicioglu C(22), Fiumara A(23), Gahl WA(24), Ganetzky R(22), 
+Goel H(25), Harshman LA(14), He M(26), Jaeken J(3), James PM(27), Katz D(28),
+Keldermans L(2), Kibaek M(29), Kornberg AJ(30), Lachlan K(31), Lam C(32),
+Yaplito-Lee J(33), Nickerson DA(6), Peters HL(33), Race V(2), Régal L(34), Rush
+JS(35), Rutledge SL(36), Shendure J(6,)(37), Souche E(2), Sparks SE(38), Trapane 
+P(14), Sanchez-Valle A(39), Vilain E(40,)(41), Vøllo A(42), Waechter CJ(35), Wang
+RY(7,)(8), Wolfe LA(24), Wong DA(41), Wood T(15), Yang AC(43); University of
+Washington Center for Mendelian Genomics, Matthijs G(2), Freeze HH(1).
+
+Author information: 
+(1)Human Genetics Program, Sanford Burnham Prebys Medical Discovery Institute, La
+Jolla, California. (2)Center for Human Genetics, University of Leuven, B-3000,
+Leuven, Belgium. (3)Center for Metabolic Diseases, University Hospital of Leuven,
+B3000, Leuven, Belgium. (4)Section of Experimental Pediatrics, Department of
+Clinical Sciences, Lund University, S-221 85, Lund, Sweden. (5)Biochemical
+Genetics Laboratory, Mayo Clinic College of Medicine, Rochester, Minnesota.
+(6)Department of Genome Sciences, University of Washington, Seattle, Washington. 
+(7)Division of Metabolic Disorders, Children's Hospital of Orange County, Orange,
+California. (8)Department of Pediatrics, University of California-Irvine School
+of Medicine, Orange, California. (9)Division of Pediatric Neurology, Baskent
+University School of Medicine, Ankara, Turkey. (10)Department of Clinical
+Genetics, Medical University 15 089 Bialystok, Poland. (11)Department of
+Pediatrics, University of Washington, Seattle, Washington. (12)Pediatric
+Neurology Policlinico, University of Catania, Italy. (13)Department of
+Pediatrics, Harvard Medical School, Boston, Massachusetts. (14)Stead Family
+Department of Pediatrics, University of Iowa Children's Hospital, Iowa City,
+Iowa. (15)Greenwood Genetic Center, Greenwood, South Carolina. (16)Division of
+Newborn Medicine, Department of Pediatrics, Washington University School of
+Medicine, St. Louis, Missouri. (17)HudsonAlpha Institute for Biotechnology,
+Huntsville, Alabama. (18)Department of Pediatrics, Division of Pediatric
+Neurology and Metabolism, University Hospital Gent, Gent, Belgium. (19)Clinical
+Genetics Program, Carolinas Health Care, Levine Childrens Hospital, Charlotte,
+North Carolina. (20)Centro de Desenvolvimento da Criança - Pediatric Hospital
+-CHUC, 3000, Coimbra, Portugal. (21)Division of Pediatric Neurology, Washington
+University, St. Louis, Missouri. (22)Department of Pediatrics, Section of
+Metabolic Disease, The Children's Hospital of Philadelphia, Perelman School of
+Medicine at the University of Pennsylvania Philadelphia, Pennsylvania. (23)Centre
+for Inherited Metabolic Diseases, Department of Clinical and Experimental
+Medicine, University of Catania, Italy. (24)NIH Undiagnosed Diseases Program,
+Common Fund, Office of the Director, NIH and National Human Genome Research
+Institute, NIH, Bethesda, Maryland. (25)Hunter Genetics, Waratah, New South
+Wales, School of Medicine and Public Health, University of Newcastle, Callaghan, 
+New South Wales, Australia. (26)Department of Pathology and Laboratory Medicine, 
+The Children's Hospital of Philadelphia, Philadelphia, Pennsylvania. (27)Division
+of Genetics & Metabolism, Phoenix Children's Hospital, Phoenix, Arizona.
+(28)Pediatric Neurology, Stormont-Vail Health Care, Topeka, Kansas.
+(29)Department of Pediatrics, Odense University Hospital, 5000, Odense, Denmark. 
+(30)Department of Neurology, Royal Children's Hospital, Parkville, Victoria,
+Australia. (31)Human Genetics and Genomic Medicine, University of Southampton and
+Wessex Clinical Genetics Service, Southampton, United Kingdom. (32)National Human
+Genome Research Institute, NIH, Bethesda, Maryland. (33)Department of Metabolic
+Medicine, Royal Children's Hospital, Murdoch Childrens Research Institute,
+Parkville, Victoria, Australia. (34)Department of Pediatric Neurology and
+Metabolism, University Hospital of Brussels, Brussels, Belgium. (35)Department of
+Molecular and Cellular Biochemistry, College of Medicine, University of Kentucky,
+Lexington, Kentucky. (36)Department of Genetics, University of Alabama at
+Birmingham, Alabama, Birmingham. (37)Howard Hughes Medical Institute, University 
+of Washington, Seattle, Washington. (38)Carolinas Healthcare System, Charlotte,
+North Carolina. (39)Division of Genetics and Metabolism, University of South
+Florida, Tampa, Florida. (40)Department of Human Genetics, David Geffen School of
+Medicine, University of California Los Angeles, Los Angeles, California.
+(41)Department of Pediatrics, David Geffen School of Medicine, University of
+California Los Angeles, Los Angeles, California. (42)Department of Pediatrics,
+Hospital of Ostfold N-1603 Fredrikstad, Norway. (43)Department of Genetics and
+Genomic Sciences Icahn School of Medicine at Mount Sinai, New York, New York.
+
+Congenital disorders of glycosylation (CDG) arise from pathogenic mutations in
+over one hundred genes leading to impaired protein or lipid glycosylation. ALG1
+encodes a β1,4 mannosyltransferase that catalyzes the addition of the first of
+nine mannose moieties to form a dolichol-lipid linked oligosaccharide
+intermediate (DLO) required for proper N-linked glycosylation. ALG1 mutations
+cause a rare autosomal recessive disorder termed ALG1-CDG. To date thirteen
+mutations in eighteen patients from fourteen families have been described with
+varying degrees of clinical severity. We identified and characterized thirty-nine
+previously unreported cases of ALG1-CDG from thirty-two families and add
+twenty-six new mutations. Pathogenicity of each mutation was confirmed based on
+its inability to rescue impaired growth or hypoglycosylation of a standard
+biomarker in an alg1-deficient yeast strain. Using this approach we could not
+establish a rank order comparison of biomarker glycosylation and patient
+phenotype, but we identified mutations with a lethal outcome in the first two
+years of life. The recently identified protein-linked xeno-tetrasaccharide
+biomarker, NeuAc-Gal-GlcNAc2 , was seen in all twenty-seven patients tested. Our 
+study triples the number of known patients and expands the molecular and clinical
+correlates of this disorder. This article is protected by copyright. All rights
+reserved.
+
+This article is protected by copyright. All rights reserved.
+
+PMID: 26931382  [PubMed - as supplied by publisher]
+
+************************************10.1161/CIRCRESAHA.115.307130LOX Mutations Predispose to Thoracic Aortic Aneurysms and Dissections.
+1. Circ Res. 2016 Mar 18;118(6):928-34. doi: 10.1161/CIRCRESAHA.115.307130. Epub
+2016 Jan 12.
+
+LOX Mutations Predispose to Thoracic Aortic Aneurysms and Dissections.
+
+Guo DC(1), Regalado ES(1), Gong L(1), Duan X(1), Santos-Cortez RL(1), Arnaud
+P(1), Ren Z(1), Cai B(1), Hostetler EM(1), Moran R(1), Liang D(1), Estrera A(1), 
+Safi HJ(1); University of Washington Center for Mendelian Genomics, Leal SM(1),
+Bamshad MJ(1), Shendure J(1), Nickerson DA(1), Jondeau G(1), Boileau C(1),
+Milewicz DM(2).
+
+Author information: 
+(1)From the Departments of Internal Medicine (D.G., E.S.R., L.G., X.D., Z.R.,
+B.C., E.M.H., D.M.M.) and Cardiothoracic and Vascular Surgery (A.E., H.J.S.),
+University of Texas Health Science Center, Houston; Department of Molecular and
+Human Genetics, Center for Statistical Genetics, Baylor College of Medicine,
+Houston, TX (R.L.P.S.-C., S.M.L.); Laboratory for Vascular Translational Science,
+INSERM U1148, Hôpital Bichat, Paris, France (P.A., G.J., C.B.); Centre National
+de Référence pour le syndrome de Marfan et apparentés, Département de Génétique
+Moléculaire, AP-HP, Hôpital Bichat, Paris, France (P.A., C.B.); Department of
+Pediatrics, MetroHealth Medical Center, Cleveland, OH (R.M.); Department of
+Medicine, Stanford University Medical Center, CA (D.L.); and Department of Genome
+Sciences, University of Washington, Seattle (M.J.B., J.S., D.A.N.). (2)From the
+Departments of Internal Medicine (D.G., E.S.R., L.G., X.D., Z.R., B.C., E.M.H.,
+D.M.M.) and Cardiothoracic and Vascular Surgery (A.E., H.J.S.), University of
+Texas Health Science Center, Houston; Department of Molecular and Human Genetics,
+Center for Statistical Genetics, Baylor College of Medicine, Houston, TX
+(R.L.P.S.-C., S.M.L.); Laboratory for Vascular Translational Science, INSERM
+U1148, Hôpital Bichat, Paris, France (P.A., G.J., C.B.); Centre National de
+Référence pour le syndrome de Marfan et apparentés, Département de Génétique
+Moléculaire, AP-HP, Hôpital Bichat, Paris, France (P.A., C.B.); Department of
+Pediatrics, MetroHealth Medical Center, Cleveland, OH (R.M.); Department of
+Medicine, Stanford University Medical Center, CA (D.L.); and Department of Genome
+Sciences, University of Washington, Seattle (M.J.B., J.S., D.A.N.).
+Dianna.M.Milewicz@uth.tmc.edu.
+
+RATIONALE: Mutations in several genes have been identified that are responsible
+for 25% of families with familial thoracic aortic aneurysms and dissections.
+However, the causative gene remains unknown in 75% of families.
+OBJECTIVES: To identify the causative mutation in families with autosomal
+dominant inheritance of thoracic aortic aneurysms and dissections.
+METHODS AND RESULTS: Exome sequencing was used to identify the mutation
+responsible for a large family with thoracic aortic aneurysms and dissections. A 
+heterozygous rare variant, c.839G>T (p.Ser280Arg), was identified in LOX,
+encoding a lysyl oxidase, that segregated with disease in the family. Sanger and 
+exome sequencing was used to investigate mutations in LOX in an additional 410
+probands from unrelated families. Additional LOX rare variants that segregated
+with disease in families were identified, including c.125G>A (p.Trp42*), c.604G>T
+(p.Gly202*), c.743C>T (p.Thr248Ile), c.800A>C (p.Gln267Pro), and c.1044T>A
+(p.Ser348Arg). The altered amino acids cause haploinsufficiency for LOX or are
+located at a highly conserved LOX catalytic domain, which is relatively invariant
+in the population. Expression of the LOX variants p.Ser280Arg and p.Ser348Arg
+resulted in significantly lower lysyl oxidase activity when compared with the
+wild-type protein. Individuals with LOX variants had fusiform enlargement of the 
+root and ascending thoracic aorta, leading to ascending aortic dissections.
+CONCLUSIONS: These data, along with previous studies showing that the deficiency 
+of LOX in mice or inhibition of lysyl oxidases in turkeys and rats causes aortic 
+dissections, support the conclusion that rare genetic variants in LOX predispose 
+to thoracic aortic disease.
+
+© 2016 American Heart Association, Inc.
+
+PMID: 26838787  [PubMed - in process]
+
+************************************10.1136/jmedgenet-2015-103304Large-scale targeted sequencing comparison highlights extreme genetic heterogeneity in nephronophthisis-related ciliopathies.
+1. J Med Genet. 2016 Mar;53(3):208-14. doi: 10.1136/jmedgenet-2015-103304. Epub 2015
+Dec 16.
+
+Large-scale targeted sequencing comparison highlights extreme genetic
+heterogeneity in nephronophthisis-related ciliopathies.
+
+Schueler M(1), Halbritter J(2), Phelps IG(3), Braun DA(1), Otto EA(4), Porath
+JD(1), Gee HY(1), Shendure J(5), O'Roak BJ(6), Lawson JA(1), Nabhan MM(7),
+Soliman NA(7), Doherty D(3), Hildebrandt F(8).
+
+Author information: 
+(1)Divison of Nephology, Department of Medicine, Boston Children's Hospital,
+Harvard Medical School, Boston, Massachusetts, USA. (2)Divison of Nephology,
+Department of Medicine, Boston Children's Hospital, Harvard Medical School,
+Boston, Massachusetts, USA Divison of Nephrology, Department of Internal
+Medicine, University Clinic Leipzig, Leipzig, Germany. (3)Department of
+Pediatrics, University of Washington School of Medicine, Seattle, Washington,
+USA. (4)Department of Pediatrics, University of Michigan, Ann Arbor, Michigan,
+USA. (5)University of Washington, Genome Sciences, Seattle, Washington, USA.
+(6)Oregon Health and Science University, Molecular and Medical Genetics,
+Portland, Oregon, USA. (7)Department of Pediatrics, Kasr Al Ainy School of
+Medicine, Cairo University, Cairo, Egypt Egyptian Group for Orphan Renal Diseases
+(EGORD), Cairo, Egypt. (8)Divison of Nephology, Department of Medicine, Boston
+Children's Hospital, Harvard Medical School, Boston, Massachusetts, USA Howard
+Hughes Medical Institute, Chevy Chase, Maryland, USA.
+
+BACKGROUND: The term nephronophthisis-related ciliopathies (NPHP-RC) describes a 
+group of rare autosomal-recessive cystic kidney diseases, characterised by broad 
+genetic and clinical heterogeneity. NPHP-RC is frequently associated with
+extrarenal manifestations and accounts for the majority of genetically caused
+chronic kidney disease (CKD) during childhood and adolescence. Generation of a
+molecular diagnosis has been impaired by this broad genetic heterogeneity.
+However, recently developed high-throughput exon sequencing techniques represent 
+powerful and efficient tools to screen large cohorts for dozens of causative
+genes.
+METHODS: Therefore, we performed massively multiplexed targeted sequencing using 
+the modified molecular inversion probe strategy (MIPs) in an international cohort
+of 384 patients diagnosed with NPHP-RC.
+RESULTS: As a result, we established the molecular diagnoses in 81/384 unrelated 
+individuals (21.1%). We detected 127 likely disease-causing mutations in 18 of 34
+evaluated NPHP-RC genes, 22 of which were novel. We further compared a subgroup
+of current findings to the results of a previous study in which we used an
+array-based microfluidic PCR technology in the same cohort. While 78 likely
+disease-causing mutations were previously detected by the array-based
+microfluidic PCR, the MIPs approach identified 94 likely pathogenic mutations.
+Compared with the previous approach, MIPs redetected 66 out of 78 variants and 28
+previously unidentified variants, for a total of 94 variants.
+CONCLUSIONS: In summary, we demonstrate that the modified MIPs technology is a
+useful approach to screen large cohorts for a multitude of established NPHP genes
+in order to identify the underlying molecular cause. Combined application of two 
+independent library preparation and sequencing techniques, however, may still be 
+indicated for Mendelian diseases with extensive genetic heterogeneity in order to
+further increase diagnostic sensitivity.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://www.bmj.com/company/products-services/rights-and-licensing/
+
+PMID: 26673778  [PubMed - in process]
+
+************************************10.1093/nar/gkv1177Multiplex pairwise assembly of array-derived DNA oligonucleotides.
+1. Nucleic Acids Res. 2016 Mar 18;44(5):e43. doi: 10.1093/nar/gkv1177. Epub 2015 Nov
+8.
+
+Multiplex pairwise assembly of array-derived DNA oligonucleotides.
+
+Klein JC(1), Lajoie MJ(2), Schwartz JJ(1), Strauch EM(2), Nelson J(3), Baker
+D(4), Shendure J(5).
+
+Author information: 
+(1)Department of Genome Sciences, University of Washington, Seattle, WA 98195,
+USA. (2)Department of Biochemistry, University of Washington, Seattle, WA 98195, 
+USA. (3)Department of Genome Sciences, University of Washington, Seattle, WA
+98195, USA Department of Biochemistry, University of Washington, Seattle, WA
+98195, USA. (4)Department of Biochemistry, University of Washington, Seattle, WA 
+98195, USA Howard Hughes Medical Institute, University of Washington, Seattle, WA
+98195, USA. (5)Department of Genome Sciences, University of Washington, Seattle, 
+WA 98195, USA Howard Hughes Medical Institute, University of Washington, Seattle,
+WA 98195, USA shendure@u.washington.edu.
+
+While the cost of DNA sequencing has dropped by five orders of magnitude in the
+past decade, DNA synthesis remains expensive for many applications. Although DNA 
+microarrays have decreased the cost of oligonucleotide synthesis, the use of
+array-synthesized oligos in practice is limited by short synthesis lengths, high 
+synthesis error rates, low yield and the challenges of assembling long constructs
+from complex pools. Toward addressing these issues, we developed a protocol for
+multiplex pairwise assembly of oligos from array-synthesized oligonucleotide
+pools. To evaluate the method, we attempted to assemble up to 2271 targets
+ranging in length from 192-252 bases using pairs of array-synthesized oligos.
+Within sets of complexity ranging from 131-250 targets, we observed error-free
+assemblies for 90.5% of all targets. When all 2271 targets were assembled in one 
+reaction, we observed error-free constructs for 70.6%. While the assembly method 
+intrinsically increased accuracy to a small degree, we further increased accuracy
+by using a high throughput 'Dial-Out PCR' protocol, which combines Illumina
+sequencing with an in-house set of unique PCR tags to selectively amplify perfect
+assemblies from complex synthetic pools. This approach has broad applicability to
+DNA assembly and high-throughput functional screens.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+PMCID: PMC4797260
+PMID: 26553805  [PubMed - in process]
+
+************************************10.1186/s12881-016-0275-5Mitral regurgitation as a phenotypic manifestation of nonphotosensitive trichothiodystrophy due to a splice variant in MPLKIP.
+1. BMC Med Genet. 2016 Feb 16;17(1):13. doi: 10.1186/s12881-016-0275-5.
+
+Mitral regurgitation as a phenotypic manifestation of nonphotosensitive
+trichothiodystrophy due to a splice variant in MPLKIP.
+
+Shah K(1), Ali RH(2,)(3), Ansar M(4,)(5), Lee K(6), Chishti MS(7), Abbe I(8), Li 
+B(9); University of Washington Center for Mendelian Genomics, Smith JD(10),
+Nickerson DA(11), Shendure J(12), Coucke PJ(13), Steyaert W(14), Bamshad MJ(15), 
+Santos-Cortez RL(16), Leal SM(17), Ahmad W(18).
+
+Author information: 
+(1)Department of Biochemistry, Faculty of Biological Sciences, Quaid-i-Azam
+University, Islamabad, 45320, Pakistan. khadim_bc@yahoo.com. (2)Department of
+Biochemistry, Faculty of Biological Sciences, Quaid-i-Azam University, Islamabad,
+45320, Pakistan. hussainali_777@hotmail.com. (3)Center for Medical Genetics,
+Ghent University Hospital, 9000, Ghent, Belgium. hussainali_777@hotmail.com.
+(4)Department of Biochemistry, Faculty of Biological Sciences, Quaid-i-Azam
+University, Islamabad, 45320, Pakistan. mansar_76@yahoo.com. (5)Center for
+Statistical Genetics, Department of Molecular and Human Genetics, Baylor College 
+of Medicine, Houston, TX, 77030, USA. mansar_76@yahoo.com. (6)Center for
+Statistical Genetics, Department of Molecular and Human Genetics, Baylor College 
+of Medicine, Houston, TX, 77030, USA. kwanghyuklee7@gmail.com. (7)Department of
+Biochemistry, Hazara University, Mansehra, Khyber Pakhtunkhwa, 21300, Pakistan.
+salmanchishtipk@yahoo.com. (8)Center for Statistical Genetics, Department of
+Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, 77030,
+USA. Izoduwa.Abbe@bcm.edu. (9)Center for Statistical Genetics, Department of
+Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, 77030,
+USA. biaol@bcm.edu. (10)Department of Genome Sciences, University of Washington, 
+Seattle, Washington, 98195, USA. jds66@u.washington.edu. (11)Department of Genome
+Sciences, University of Washington, Seattle, Washington, 98195, USA.
+debnick@u.washington.edu. (12)Department of Genome Sciences, University of
+Washington, Seattle, Washington, 98195, USA. shendure@uw.edu. (13)Center for
+Medical Genetics, Ghent University Hospital, 9000, Ghent, Belgium.
+Paul.Coucke@UGent.be. (14)Center for Medical Genetics, Ghent University Hospital,
+9000, Ghent, Belgium. wasteyae.Steyaert@UGent.be. (15)Department of Genome
+Sciences, University of Washington, Seattle, Washington, 98195, USA.
+mbamshad@u.washington.edu. (16)Center for Statistical Genetics, Department of
+Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, 77030,
+USA. santosco@bcm.edu. (17)Center for Statistical Genetics, Department of
+Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, 77030,
+USA. sleal@bcm.edu. (18)Department of Biochemistry, Faculty of Biological
+Sciences, Quaid-i-Azam University, Islamabad, 45320, Pakistan.
+wahmadqau@gmail.com.
+
+BACKGROUND: Nonphotosensitive trichothiodystrophy (TTDN) is a rare autosomal
+recessive disorder of neuroectodermal origin. The condition is marked by hair
+abnormalities, intellectual impairment, nail dystrophies and susceptibility to
+infections but with no UV sensitivity.
+METHODS: We identified three consanguineous Pakistani families with varied TTDN
+features and used homozygosity mapping, linkage analysis, and Sanger and exome
+sequencing in order to identify pathogenic variants. Haplotype analysis was
+performed and haplotype age estimated. A splicing assay was used to validate the 
+effect of the MPLKIP splice variant on expression.
+RESULTS: Affected individuals from all families exhibit several TTDN features
+along with a heart-specific feature, i.e. mitral regurgitation. Exome sequencing 
+in the probands from families ED168 and ED241 identified a homozygous splice
+mutation c.339 + 1G > A within MPLKIP. The same splice variant co-segregates with
+TTDN in a third family ED210. The MPLKIP splice variant was not found in public
+databases, e.g. the Exome Aggregation Consortium, and in unrelated Pakistani
+controls. Functional analysis of the splice variant confirmed intron retention,
+which leads to protein truncation and loss of a phosphorylation site. Haplotype
+analysis identified a 585.1-kb haplotype which includes the MPLKIP variant,
+supporting the existence of a founder haplotype that is estimated to be
+25,900 years old.
+CONCLUSION: This study extends the allelic and phenotypic spectra of
+MPLKIP-related TTDN, to include a splice variant that causes cardiomyopathy as
+part of the TTDN phenotype.
+
+PMCID: PMC4754937
+PMID: 26880286  [PubMed - in process]
+
+************************************10.1016/j.gpb.2016.01.002Understanding Spatial Genome Organization: Methods and Insights.
+1. Genomics Proteomics Bioinformatics. 2016 Feb;14(1):7-20. doi:
+10.1016/j.gpb.2016.01.002. Epub 2016 Feb 11.
+
+Understanding Spatial Genome Organization: Methods and Insights.
+
+Ramani V(1), Shendure J(2), Duan Z(3).
+
+Author information: 
+(1)Department of Genome Sciences, University of Washington, Seattle, WA 98195,
+USA. (2)Department of Genome Sciences, University of Washington, Seattle, WA
+98195, USA; Howard Hughes Medical Institute, Seattle, WA 98195, USA. (3)Institute
+for Stem Cell and Regenerative Medicine, University of Washington, Seattle, WA
+98109, USA; Division of Hematology, University of Washington, Seattle, WA 98195, 
+USA; Department of Medicine, University of Washington, Seattle, WA 98195, USA.
+Electronic address: zjduan@uw.edu.
+
+The manner by which eukaryotic genomes are packaged into nuclei while maintaining
+crucial nuclear functions remains one of the fundamental mysteries in biology.
+Over the last ten years, we have witnessed rapid advances in both microscopic and
+nucleic acid-based approaches to map genome architecture, and the application of 
+these approaches to the dissection of higher-order chromosomal structures has
+yielded much new information. It is becoming increasingly clear, for example,
+that interphase chromosomes form stable, multilevel hierarchical structures.
+Among them, self-associating domains like so-called topologically associating
+domains (TADs) appear to be building blocks for large-scale genomic organization.
+This review describes features of these broadly-defined hierarchical structures, 
+insights into the mechanisms underlying their formation, our current
+understanding of how interactions in the nuclear space are linked to gene
+regulation, and important future directions for the field.
+
+Copyright © 2016 The Authors. Production and hosting by Elsevier Ltd.. All rights
+reserved.
+
+PMCID: PMC4792841
+PMID: 26876719  [PubMed - in process]
+
+************************************10.1098/rspb.2015.2292Sustained fitness gains and variability in fitness trajectories in the long-term evolution experiment with Escherichia coli.
+1. Proc Biol Sci. 2015 Dec 22;282(1821):20152292. doi: 10.1098/rspb.2015.2292.
+
+Sustained fitness gains and variability in fitness trajectories in the long-term 
+evolution experiment with Escherichia coli.
+
+Lenski RE(1), Wiser MJ(2), Ribeck N(3), Blount ZD(3), Nahum JR(4), Morris JJ(5), 
+Zaman L(6), Turner CB(7), Wade BD(8), Maddamsetti R(2), Burmeister AR(3), Baird
+EJ(3), Bundy J(2), Grant NA(3), Card KJ(3), Rowles M(4), Weatherspoon K(4),
+Papoulis SE(9), Sullivan R(10), Clark C(10), Mulka JS(10), Hajela N(10).
+
+Author information: 
+(1)BEACON Center for the Study of Evolution in Action, Michigan State University,
+East Lansing, MI, USA Department of Microbiology and Molecular Genetics, Michigan
+State University, East Lansing, MI, USA Department of Integrative Biology,
+Michigan State University, East Lansing, MI, USA Department of Plant, Soil and
+Microbial Sciences, Michigan State University, East Lansing, MI, USA
+lenski@msu.edu. (2)BEACON Center for the Study of Evolution in Action, Michigan
+State University, East Lansing, MI, USA Department of Integrative Biology,
+Michigan State University, East Lansing, MI, USA. (3)BEACON Center for the Study 
+of Evolution in Action, Michigan State University, East Lansing, MI, USA
+Department of Microbiology and Molecular Genetics, Michigan State University,
+East Lansing, MI, USA. (4)BEACON Center for the Study of Evolution in Action,
+Michigan State University, East Lansing, MI, USA. (5)BEACON Center for the Study 
+of Evolution in Action, Michigan State University, East Lansing, MI, USA
+Department of Biology, University of Alabama at Birmingham, Birmingham, AL, USA. 
+(6)BEACON Center for the Study of Evolution in Action, Michigan State University,
+East Lansing, MI, USA Department of Biology, University of Washington, Seattle,
+WA, USA. (7)BEACON Center for the Study of Evolution in Action, Michigan State
+University, East Lansing, MI, USA Department of Integrative Biology, Michigan
+State University, East Lansing, MI, USA Department of Microbiology and Molecular 
+Genetics, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.
+(8)Department of Plant, Soil and Microbial Sciences, Michigan State University,
+East Lansing, MI, USA. (9)BEACON Center for the Study of Evolution in Action,
+Michigan State University, East Lansing, MI, USA Department of Microbiology,
+University of Tennessee, Knoxville, TN, USA. (10)Department of Microbiology and
+Molecular Genetics, Michigan State University, East Lansing, MI, USA.
+
+Many populations live in environments subject to frequent biotic and abiotic
+changes. Nonetheless, it is interesting to ask whether an evolving population's
+mean fitness can increase indefinitely, and potentially without any limit, even
+in a constant environment. A recent study showed that fitness trajectories of
+Escherichia coli populations over 50 000 generations were better described by a
+power-law model than by a hyperbolic model. According to the power-law model, the
+rate of fitness gain declines over time but fitness has no upper limit, whereas
+the hyperbolic model implies a hard limit. Here, we examine whether the
+previously estimated power-law model predicts the fitness trajectory for an
+additional 10 000 generations. To that end, we conducted more than 1100 new
+competitive fitness assays. Consistent with the previous study, the power-law
+model fits the new data better than the hyperbolic model. We also analysed the
+variability in fitness among populations, finding subtle, but significant,
+heterogeneity in mean fitness. Some, but not all, of this variation reflects
+differences in mutation rate that evolved over time. Taken together, our results 
+imply that both adaptation and divergence can continue indefinitely--or at least 
+for a long time--even in a constant environment.
+
+© 2015 The Authors.
+
+PMCID: PMC4707762
+PMID: 26674951  [PubMed - in process]
+
+************************************10.1111/1462-2920.12317In situ gene expression profiling of the thermoacidophilic alga Cyanidioschyzon in relation to visible and ultraviolet irradiance.
+1. Environ Microbiol. 2014 Jun;16(6):1627-41. doi: 10.1111/1462-2920.12317. Epub
+2013 Nov 26.
+
+In situ gene expression profiling of the thermoacidophilic alga Cyanidioschyzon
+in relation to visible and ultraviolet irradiance.
+
+Skorupa DJ(1), Castenholz RW, Mazurie A, Carey C, Rosenzweig F, McDermott TR.
+
+Author information: 
+(1)Department of Microbiology, Montana State University, Bozeman, MT, 59717, USA.
+
+Ultraviolet and high-intensity visible radiation generate reactive intermediates 
+that damage phototrophic microorganisms. In Yellowstone National Park, the
+thermoacidophilic alga Cyanidioschyzon exhibits an annual seasonal biomass
+fluctuation referred to as 'mat decline', where algal viability decreases as
+ultraviolet and visible irradiances increase during summer. We examined the role 
+irradiance might play in mat decline using irradiance filters that uncouple
+ultraviolet and visible effects along with custom microarrays to study gene
+expression in situ. Of the 6507 genes, 88% showed no response to ultraviolet or
+visible, implying that at the biomolecular level, these algae inhabit a
+chemostat-like environment and is consistent with the near constant aqueous
+chemistry measured. The remaining genes exhibited expression changes linked to
+ultraviolet exposure, to increased visible radiation, or to the apparent combined
+effects of ultraviolet and visible. Expression of DNA repetitive elements was
+synchronized, being repressed by visible but also influenced by ultraviolet. At
+highest irradiance levels, these algae reduced transcription of genes encoding
+functions involved with DNA replication, photosynthesis and cell cycle
+progression but exhibited an uptick in activities related to repairing DNA
+damage. This corroborates known physiological responses to ultraviolet and
+visible radiation, and leads us to provisionally conclude that mat decline is
+linked to photoinhibition.
+
+© 2013 Society for Applied Microbiology and John Wiley & Sons Ltd.
+
+PMID: 24274381  [PubMed - indexed for MEDLINE]
+
+************************************10.1038/nm.4053Substantial interindividual and limited intraindividual genomic diversity among tumors from men with metastatic prostate cancer.
+1. Nat Med. 2016 Apr;22(4):369-78. doi: 10.1038/nm.4053. Epub 2016 Feb 29.
+
+Substantial interindividual and limited intraindividual genomic diversity among
+tumors from men with metastatic prostate cancer.
+
+Kumar A(1), Coleman I(2), Morrissey C(3), Zhang X(3), True LD(4), Gulati R(5),
+Etzioni R(5), Bolouri H(2), Montgomery B(6), White T(2), Lucas JM(2), Brown
+LG(3), Dumpit RF(2), DeSarkar N(2), Higano C(6), Yu EY(6), Coleman R(2), Schultz 
+N(7), Fang M(4,)(8), Lange PH(3), Shendure J(1), Vessella RL(3), Nelson
+PS(1,)(2,)(3,)(4,)(5,)(6,)(8).
+
+Author information: 
+(1)Department of Genome Sciences, University of Washington, Seattle, Washington, 
+USA. (2)Division of Human Biology, Fred Hutchinson Cancer Research Center,
+Seattle, Washington, USA. (3)Department of Urology, University of Washington,
+Seattle, Washington, USA. (4)Department of Pathology, University of Washington,
+Seattle, Washington, USA. (5)Division of Public Health Sciences, Fred Hutchinson 
+Cancer Research Center, Seattle, Washington, USA. (6)Department of Medicine,
+University of Washington, Seattle, Washington, USA. (7)Department of Epidemiology
+and Biostatistics, Memorial Sloan Kettering Cancer Center, New York, New York,
+USA. (8)Division of Clinical Research, Fred Hutchinson Cancer Research Center,
+Seattle, Washington, USA.
+
+Tumor heterogeneity may reduce the efficacy of molecularly guided systemic
+therapy for cancers that have metastasized. To determine whether the genomic
+alterations in a single metastasis provide a reasonable assessment of the major
+oncogenic drivers of other dispersed metastases in an individual, we analyzed
+multiple tumors from men with disseminated prostate cancer through whole-exome
+sequencing, array comparative genomic hybridization (CGH) and RNA transcript
+profiling, and we compared the genomic diversity within and between individuals. 
+In contrast to the substantial heterogeneity between men, there was limited
+diversity among metastases within an individual. The number of somatic mutations,
+the burden of genomic copy number alterations and aberrations in known oncogenic 
+drivers were all highly concordant, as were metrics of androgen receptor (AR)
+activity and cell cycle activity. AR activity was inversely associated with cell 
+proliferation, whereas the expression of Fanconi anemia (FA)-complex genes was
+correlated with elevated cell cycle progression, expression of the E2F
+transcription factor 1 (E2F1) and loss of retinoblastoma 1 (RB1). Men with
+somatic aberrations in FA-complex genes or in ATM serine/threonine kinase (ATM)
+exhibited significantly longer treatment-response durations to carboplatin than
+did men without defects in genes encoding DNA-repair proteins. Collectively,
+these data indicate that although exceptions exist, evaluating a single
+metastasis provides a reasonable assessment of the major oncogenic driver
+alterations that are present in disseminated tumors within an individual, and
+thus may be useful for selecting treatments on the basis of predicted molecular
+vulnerabilities.
+
+PMID: 26928463  [PubMed - in process]
+
+************************************10.1111/ijd.12950Novel mutations in the genes TGM1 and ALOXE3 underlying autosomal recessive congenital ichthyosis.
+1. Int J Dermatol. 2016 May;55(5):524-530. doi: 10.1111/ijd.12950. Epub 2015 Nov 17.
+
+Novel mutations in the genes TGM1 and ALOXE3 underlying autosomal recessive
+congenital ichthyosis.
+
+Ullah R(1), Ansar M(2,)(3), Durrani ZU(2), Lee K(3), Santos-Cortez RL(3),
+Muhammad D(2), Ali M(2), Zia M(1), Ayub M(4), Khan S(1), Smith JD(5), Nickerson
+DA(5), Shendure J(5), Bamshad M(5), Leal SM(3), Ahmad W(2).
+
+Author information: 
+(1)Department of Biotechnology, Faculty of Biological Sciences, Quaid-i-Azam
+University, Islamabad, Pakistan. (2)Department of Biochemistry, Faculty of
+Biological Sciences, Quaid-i-Azam University, Islamabad, Pakistan. (3)Center for 
+Statistical Genetics, Department of Molecular and Human Genetics, Baylor College 
+of Medicine, Houston, TX, USA. (4)Institute of Biochemistry, University of
+Baluchistan, Quetta, Pakistan. (5)Department of Genome Sciences, University of
+Washington, Seattle, WA, USA.
+
+BACKGROUND: Ichthyoses are clinically characterized by scaling or hyperkeratosis 
+of the skin or both. It can be an isolated condition limited to the skin or
+appear secondarily with involvement of other cutaneous or systemic abnormalities.
+METHODS: The present study investigated clinical and molecular characterization
+of three consanguineous families (A, B, C) segregating two different forms of
+autosomal recessive congenital ichthyosis (ARCI). Linkage in three consanguineous
+families (A, B, C) segregating two different forms of ARCI was searched by typing
+microsatellite and single nucleotide polymorphism marker analysis. Sequencing of 
+the two genes TGM1 and ALOXE3 was performed by the dideoxy chain termination
+method.
+RESULTS: Genome-wide linkage analysis established linkage in family A to TGM1
+gene on chromosome 14q11 and in families B and C to ALOXE3 gene on chromosome
+17p13. Subsequently, sequencing of these genes using samples from affected family
+members led to the identification of three novel mutations: a missense variant
+p.Trp455Arg in TGM1 (family A); a nonsense variant p.Arg140* in ALOXE3 (family
+B); and a complex rearrangement in ALOXE3 (family C).
+CONCLUSION: The present study further extends the spectrum of mutations in the
+two genes involved in causing ARCI. Characterizing the clinical spectrum
+resulting from mutations in the TGM1 and ALOXE3 genes will improve diagnosis and 
+may direct clinical care of the family members.
+
+© 2015 The International Society of Dermatology.
+
+PMID: 26578203  [PubMed - as supplied by publisher]
+
+************************************10.1073/pnas.242624799Characteristic genome rearrangements in experimental evolution of Saccharomyces cerevisiae.
+1. Proc Natl Acad Sci U S A. 2002 Dec 10;99(25):16144-9. Epub 2002 Nov 21.
+
+Characteristic genome rearrangements in experimental evolution of Saccharomyces
+cerevisiae.
+
+Dunham MJ(1), Badrane H, Ferea T, Adams J, Brown PO, Rosenzweig F, Botstein D.
+
+Author information: 
+(1)Department of Genetics, and Howard Hughes Medical Institute and Department of 
+Biochemistry, Stanford University Medical School, Stanford, CA 94305, USA.
+
+Genome rearrangements, especially amplifications and deletions, have regularly
+been observed as responses to sustained application of the same strong selective 
+pressure in microbial populations growing in continuous culture. We studied eight
+strains of budding yeast (Saccharomyces cerevisiae) isolated after 100-500
+generations of growth in glucose-limited chemostats. Changes in DNA copy number
+were assessed at single-gene resolution by using DNA microarray-based comparative
+genomic hybridization. Six of these evolved strains were aneuploid as the result 
+of gross chromosomal rearrangements. Most of the aneuploid regions were the
+result of translocations, including three instances of a shared breakpoint on
+chromosome 14 immediately adjacent to CIT1, which encodes the citrate synthase
+that performs a key regulated step in the tricarboxylic acid cycle. Three strains
+had amplifications in a region of chromosome 4 that includes the high-affinity
+hexose transporters; one of these also had the aforementioned chromosome 14
+break. Three strains had extensive overlapping deletions of the right arm of
+chromosome 15. Further analysis showed that each of these genome rearrangements
+was bounded by transposon-related sequences at the breakpoints. The observation
+of repeated, independent, but nevertheless very similar, chromosomal
+rearrangements in response to persistent selection of growing cells parallels the
+genome rearrangements that characteristically accompany tumor progression.
+
+PMCID: PMC138579
+PMID: 12446845  [PubMed - indexed for MEDLINE]
+
+************************************10.1073/pnas.1323918111Uncoupling reproduction from metabolism extends chronological lifespan in yeast.
+1. Proc Natl Acad Sci U S A. 2014 Apr 15;111(15):E1538-47. doi:
+10.1073/pnas.1323918111. Epub 2014 Mar 31.
+
+Uncoupling reproduction from metabolism extends chronological lifespan in yeast.
+
+Nagarajan S(1), Kruckeberg AL, Schmidt KH, Kroll E, Hamilton M, McInnerney K,
+Summers R, Taylor T, Rosenzweig F.
+
+Author information: 
+(1)Division of Biological Sciences, University of Montana, Missoula, MT 59812.
+
+Studies of replicative and chronological lifespan in Saccharomyces cerevisiae
+have advanced understanding of longevity in all eukaryotes. Chronological
+lifespan in this species is defined as the age-dependent viability of nondividing
+cells. To date this parameter has only been estimated under calorie restriction, 
+mimicked by starvation. Because postmitotic cells in higher eukaryotes often do
+not starve, we developed a model yeast system to study cells as they age in the
+absence of calorie restriction. Yeast cells were encapsulated in a matrix
+consisting of calcium alginate to form ∼3 mm beads that were packed into
+bioreactors and fed ad libitum. Under these conditions cells ceased to divide,
+became heat shock and zymolyase resistant, yet retained high fermentative
+capacity. Over the course of 17 d, immobilized yeast cells maintained >95%
+viability, whereas the viability of starving, freely suspended (planktonic) cells
+decreased to <10%. Immobilized cells exhibited a stable pattern of gene
+expression that differed markedly from growing or starving planktonic cells,
+highly expressing genes in glycolysis, cell wall remodeling, and stress
+resistance, but decreasing transcription of genes in the tricarboxylic acid
+cycle, and genes that regulate the cell cycle, including master cyclins CDC28 and
+CLN1. Stress resistance transcription factor MSN4 and its upstream effector RIM15
+are conspicuously up-regulated in the immobilized state, and an immobilized rim15
+knockout strain fails to exhibit the long-lived, growth-arrested phenotype,
+suggesting that altered regulation of the Rim15-mediated nutrient-sensing pathway
+plays an important role in extending yeast chronological lifespan under
+calorie-unrestricted conditions.
+
+PMCID: PMC3992631
+PMID: 24706810  [PubMed - indexed for MEDLINE]
+
+************************************10.1093/molbev/msv161Synonymous Genetic Variation in Natural Isolates of Escherichia coli Does Not Predict Where Synonymous Substitutions Occur in a Long-Term Experiment.
+1. Mol Biol Evol. 2015 Nov;32(11):2897-904. doi: 10.1093/molbev/msv161. Epub 2015
+Jul 20.
+
+Synonymous Genetic Variation in Natural Isolates of Escherichia coli Does Not
+Predict Where Synonymous Substitutions Occur in a Long-Term Experiment.
+
+Maddamsetti R(1), Hatcher PJ(2), Cruveiller S(3), Médigue C(3), Barrick JE(4),
+Lenski RE(5).
+
+Author information: 
+(1)Ecology, Evolutionary Biology, and Behavior Program, Michigan State University
+BEACON Center for the Study of Evolution in Action, Michigan State University
+maddamse@msu.edu. (2)Department of Computer Science, University of New Hampshire.
+(3)CNRS-UMR 8030 and Commissariat à l'Energie Atomique CEA/DSV/IG/Genoscope
+LABGeM, Evry, France. (4)BEACON Center for the Study of Evolution in Action,
+Michigan State University Department of Molecular Biosciences, Institute for
+Cellular and Molecular Biology, Center for Systems and Synthetic Biology, The
+University of Texas at Austin. (5)Ecology, Evolutionary Biology, and Behavior
+Program, Michigan State University BEACON Center for the Study of Evolution in
+Action, Michigan State University.
+
+Synonymous genetic differences vary by more than 20-fold among genes in natural
+isolates of Escherichia coli. One hypothesis to explain this heterogeneity is
+that genes with high levels of synonymous variation mutate at higher rates than
+genes with low synonymous variation. If so, then one would expect to observe
+similar mutational patterns in evolution experiments. In fact, however, the
+pattern of synonymous substitutions in a long-term evolution experiment with E.
+coli does not support this hypothesis. In particular, the extent of synonymous
+variation across genes in that experiment does not reflect the variation observed
+in natural isolates of E. coli. Instead, gene length alone predicts with high
+accuracy the prevalence of synonymous changes in the experimental populations. We
+hypothesize that patterns of synonymous variation in natural E. coli populations 
+are instead caused by differences across genomic regions in their effective
+population size that, in turn, reflect different histories of recombination,
+horizontal gene transfer, selection, and population structure.
+
+© The Author 2015. Published by Oxford University Press on behalf of the Society 
+for Molecular Biology and Evolution.
+
+PMCID: PMC4651231
+PMID: 26199375  [PubMed - in process]
+
+************************************10.1016/j.cell.2015.11.050
